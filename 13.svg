@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1920"
+   height="1080"
+   version="1.1"
+   id="svg44"
+   sodipodi:docname="13.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs44" />
+  <sodipodi:namedview
+     id="namedview44"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.4944444"
+     inkscape:cx="1755.8364"
+     inkscape:cy="1023.7918"
+     inkscape:window-width="1080"
+     inkscape:window-height="1836"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg44" />
+  <!-- 배경 -->
+  <rect
+     width="1920"
+     height="1080"
+     fill="#F5F5F5"
+     id="rect1" />
+  <rect
+     x="1040.2095"
+     y="411.56982"
+     width="770.12311"
+     height="264.16318"
+     rx="10.001598"
+     fill="#ffffff"
+     stroke="#4a90e2"
+     stroke-width="1.8769"
+     id="rect24" />
+  <rect
+     x="1040.271"
+     y="411.63138"
+     width="385"
+     height="60"
+     rx="0"
+     fill="#4a90e2"
+     opacity="0.2"
+     id="rect25" />
+  <rect
+     x="1425.271"
+     y="411.63138"
+     width="385"
+     height="60"
+     rx="0"
+     fill="#50e3c2"
+     opacity="0.2"
+     id="rect26" />
+  <text
+     x="1232.271"
+     y="451.63138"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     font-weight="bold"
+     fill="#2c3e50"
+     text-anchor="middle"
+     id="text26">부정적 프라이밍</text>
+  <text
+     x="1617.271"
+     y="451.63138"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     font-weight="bold"
+     fill="#2c3e50"
+     text-anchor="middle"
+     id="text27">긍정적 프라이밍</text>
+  <line
+     x1="1040.271"
+     y1="471.63138"
+     x2="1810.271"
+     y2="471.63138"
+     stroke="#4a90e2"
+     stroke-width="1"
+     id="line27" />
+  <line
+     x1="1425.271"
+     y1="411.63138"
+     x2="1425.271"
+     y2="711.63141"
+     stroke="#4a90e2"
+     stroke-width="1"
+     id="line28" />
+  <text
+     x="1060.271"
+     y="501.63141"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#34495e"
+     id="text28">&quot;왜 이 문제가 발생했나요?&quot;</text>
+  <text
+     x="1445.271"
+     y="501.63141"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#34495e"
+     id="text29">&quot;이 상황에서 어떤 기회를 볼 수 있나요?&quot;</text>
+  <line
+     x1="1040.271"
+     y1="519.63141"
+     x2="1810.271"
+     y2="519.63141"
+     stroke="#4a90e2"
+     stroke-width="1"
+     id="line29" />
+  <text
+     x="1060.271"
+     y="547.63141"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#34495e"
+     id="text30">&quot;이러한 장애물을 어떻게 극복할까요?&quot;</text>
+  <text
+     x="1445.271"
+     y="547.63141"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#34495e"
+     id="text31">&quot;목표에 도달하기 위해 어떤 자원이 있나요?&quot;</text>
+  <line
+     x1="1040.271"
+     y1="573.63141"
+     x2="1810.271"
+     y2="573.63141"
+     stroke="#4a90e2"
+     stroke-width="1"
+     id="line31" />
+  <text
+     x="1060.271"
+     y="605.63141"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#34495e"
+     id="text32">&quot;왜 이 방법이 작동하지 않았나요?&quot;</text>
+  <text
+     x="1445.271"
+     y="605.63141"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#34495e"
+     id="text33">&quot;무엇이 더 효과적일 수 있을까요?&quot;</text>
+  <line
+     x1="1040.271"
+     y1="625.63141"
+     x2="1810.271"
+     y2="625.63141"
+     stroke="#4a90e2"
+     stroke-width="1"
+     id="line33" />
+  <text
+     x="1060.271"
+     y="659.63141"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#34495e"
+     id="text34">&quot;실패하면 어떻게 할 계획인가요?&quot;</text>
+  <text
+     x="1445.271"
+     y="659.63141"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#34495e"
+     id="text35">&quot;성공하기 위해 무엇을 시도할 수 있나요?&quot;</text>
+  <!-- 제목 영역 배경 -->
+  <rect
+     x="0"
+     y="0"
+     width="1920"
+     height="120"
+     fill="#4285F4"
+     id="rect2" />
+  <!-- 제목 텍스트 -->
+  <text
+     x="60"
+     y="80"
+     font-family="Arial, sans-serif"
+     font-size="48"
+     font-weight="bold"
+     fill="white"
+     id="text2">핵심 코칭 기법 - 긍정적 프라이밍</text>
+  <!-- 메인 콘텐츠 영역 -->
+  <!-- 왼쪽 섹션 - 정의 및 설명 -->
+  <rect
+     x="60"
+     y="138.58736"
+     width="896.05951"
+     height="262.94751"
+     rx="10.182494"
+     fill="#e1f5fe"
+     id="rect3"
+     style="stroke-width:1.05623" />
+  <text
+     x="80"
+     y="190"
+     font-family="Arial, sans-serif"
+     font-size="32px"
+     font-weight="bold"
+     fill="#0d47a1"
+     id="text3">긍정적 프라이밍 (Positive Priming)</text>
+  <text
+     x="80"
+     y="244"
+     font-family="Arial, sans-serif"
+     font-size="24px"
+     fill="#333333"
+     id="text4"><tspan
+       x="80"
+       y="244"
+       id="tspan3">&quot;오늘 아침에 있었던 가장 좋은 일은 무엇인가요? 무엇이 잘 진행되고</tspan><tspan
+       x="80"
+       y="279"
+       id="tspan4">있나요?&quot;</tspan></text>
+  <text
+     x="80"
+     y="290"
+     font-family="Arial, sans-serif"
+     font-size="22px"
+     fill="#333333"
+     id="text8"
+     style="white-space:pre;inline-size:819.686"
+     transform="translate(0,30)"
+     xml:space="preserve"><tspan
+       x="80"
+       y="290"
+       id="tspan5">긍정적인 답변을 하기 쉬운 질문을 먼저 던진 후 본 주제로 전환함으로써,고객이 긍</tspan><tspan
+       x="80"
+       y="318.02911"
+       id="tspan6">정적 관점에서 문제를 바라볼 수 있도록 돕는 기법입니다.긍정적 정서 상태에서 사</tspan><tspan
+       x="80"
+       y="346.05823"
+       id="tspan7">고의 폭이 넓어지고 창의적 문제 해결 능력이향상된다는 심리학적 원리에 기반합니</tspan><tspan
+       x="80"
+       y="374.08734"
+       id="tspan8">다.</tspan></text>
+  <!-- 오른쪽 섹션 - 다이어그램 -->
+  <rect
+     x="980"
+     y="138.58736"
+     width="880"
+     height="267.03607"
+     rx="10"
+     fill="#e8f5e9"
+     id="rect8"
+     style="stroke-width:0.838289" />
+  <text
+     x="980.60181"
+     y="426.58932"
+     font-family="Arial, sans-serif"
+     font-size="22px"
+     fill="#333333"
+     id="text22-0"
+     style="white-space:pre;inline-size:830.373"
+     transform="translate(49.355767,-115.4503)"
+     xml:space="preserve"><tspan
+       x="980.60181"
+       y="426.58932"
+       id="tspan9">1. 세션 시작 시 고객이 쉽게 긍정적으로 답할 수 있는 2-3개의 질문으로시작합니다.
+</tspan><tspan
+       x="980.60181"
+       y="454.61844"
+       id="tspan14">2. 고객의 긍정적 경험과 감정에 진심으로 반응하고 이를 확장합니다.
+</tspan><tspan
+       x="980.60181"
+       y="482.64755"
+       id="tspan15">3. 브릿지 질문을 통해 긍정적 맥락에서 본 주제로 자연스럽게 전환합니다.
+</tspan><tspan
+       x="980.60181"
+       y="510.67667"
+       id="tspan16">4. 원래 다루고자 했던 문제나 도전을 이미 구축된 긍정적 맥락 내에서탐색합니다.</tspan></text>
+  <!-- 긍정적 프라이밍 프로세스 다이어그램 -->
+  <!-- 화살표 흐름도 -->
+  <rect
+     x="1059.8969"
+     y="193.89687"
+     width="160.46107"
+     height="80.206261"
+     rx="8.0230541"
+     fill="#a5d6a7"
+     stroke="#2e7d32"
+     stroke-width="1.79374"
+     id="rect9" />
+  <text
+     x="1144"
+     y="239"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     font-weight="bold"
+     fill="#1b5e20"
+     text-anchor="middle"
+     id="text9">긍정적 질문</text>
+  <line
+     x1="1220"
+     y1="234"
+     x2="1250"
+     y2="234"
+     stroke="#2e7d32"
+     stroke-width="3"
+     id="line9" />
+  <rect
+     x="1249.8856"
+     y="193.88565"
+     width="156.69824"
+     height="80.091476"
+     rx="7.8349123"
+     fill="#81c784"
+     stroke="#2e7d32"
+     stroke-width="1.77131"
+     id="rect10" />
+  <text
+     x="1332"
+     y="239"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     font-weight="bold"
+     fill="#1b5e20"
+     text-anchor="middle"
+     id="text10">긍정적 상태</text>
+  <rect
+     x="1636.7734"
+     y="192.89468"
+     width="156.69824"
+     height="80.091476"
+     rx="7.8349123"
+     fill="#66bb6a"
+     stroke="#2e7d32"
+     stroke-width="1.77131"
+     id="rect11" />
+  <text
+     x="1718.8878"
+     y="237.87183"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     font-weight="bold"
+     fill="#1b5e20"
+     text-anchor="middle"
+     id="text11">브릿지 질문</text>
+  <line
+     x1="1636.8878"
+     y1="232.87183"
+     x2="1606.8878"
+     y2="232.87183"
+     stroke="#2e7d32"
+     stroke-width="3"
+     id="line11" />
+  <line
+     x1="1440.2869"
+     y1="232.69394"
+     x2="1410.2869"
+     y2="232.69394"
+     stroke="#2e7d32"
+     stroke-width="3"
+     id="line11-7" />
+  <rect
+     x="1444.1107"
+     y="192.77905"
+     width="164.22565"
+     height="80.185577"
+     rx="8.2112827"
+     fill="#4caf50"
+     stroke="#2e7d32"
+     stroke-width="1.81442"
+     id="rect12" />
+  <text
+     x="1528.2035"
+     y="227.87183"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     font-weight="bold"
+     fill="#1b5e20"
+     text-anchor="middle"
+     id="text12">문제 탐색</text>
+  <text
+     x="1528.2035"
+     y="252.87183"
+     font-family="Arial, sans-serif"
+     font-size="16px"
+     font-weight="bold"
+     fill="#1b5e20"
+     text-anchor="middle"
+     id="text13">(긍정적 맥락에서)</text>
+  <text
+     x="1060"
+     y="174"
+     font-family="Arial, sans-serif"
+     font-size="24px"
+     font-weight="bold"
+     fill="#1b5e20"
+     id="text14">긍정적 프라이밍 프로세스</text>
+  <!-- 적용 방법 섹션 -->
+  <rect
+     x="60"
+     y="415.86618"
+     width="896.05951"
+     height="235.3772"
+     rx="10.182494"
+     fill="#dcedc8"
+     id="rect16"
+     style="stroke-width:0.925189" />
+  <text
+     x="95"
+     y="501.85547"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     fill="#34495e"
+     id="text10-7"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">• 언어와 질문 방식이 생각과 행동의 방향을 결정한다.</text>
+  <text
+     x="95"
+     y="541.85547"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     fill="#34495e"
+     id="text11-1"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">• 질문은 중립적이지 않으며, 어떻게 물어보느냐에 따라 사고의 방향이 달라진다</text>
+  <text
+     x="95"
+     y="579.85547"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     fill="#34495e"
+     id="text13-5"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">• 긍정적으로 프레임된 질문은 가능성 중심 사고를 촉진한다.</text>
+  <text
+     x="95"
+     y="619.85547"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     fill="#34495e"
+     id="text14-2"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">• 긍정적 언어는 고객의 뇌에서 긍정적 연결망을 활성화한다.</text>
+  <text
+     x="80"
+     y="452"
+     font-family="Arial, sans-serif"
+     font-size="28px"
+     font-weight="bold"
+     fill="#33691e"
+     id="text17">기본 원리</text>
+  <!-- 코칭 대화 예시 및 질문 카드 섹션 -->
+  <rect
+     x="60"
+     y="667.63275"
+     width="896.05951"
+     height="352.36722"
+     rx="10.182494"
+     fill="#fff9c4"
+     id="rect22"
+     style="stroke-width:1.09361" />
+  <text
+     x="80"
+     y="718"
+     font-family="Arial, sans-serif"
+     font-size="28px"
+     font-weight="bold"
+     fill="#f57f17"
+     id="text23">코칭 대화 예시</text>
+  <text
+     x="80"
+     y="758"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     fill="#333333"
+     id="text36"><tspan
+       x="80"
+       y="758"
+       font-weight="bold"
+       id="tspan23">코치:</tspan><tspan
+       id="tspan24">&quot;오늘 만나기 전, 이번 주에 있었던 작은 성공이나 좋았던 순간이 있었나요?&quot;</tspan><tspan
+       x="80"
+       y="788"
+       font-weight="bold"
+       id="tspan25">고객:</tspan><tspan
+       id="tspan26">&quot;금요일에 제가 주도한 마케팅 캠페인이 예상보다 좋은 반응을 얻었어요.</tspan><tspan
+       x="120"
+       y="818"
+       id="tspan27">팀원들도 좋은 피드백을 줬습니다.&quot;</tspan><tspan
+       x="80"
+       y="848"
+       font-weight="bold"
+       id="tspan28">코치:</tspan><tspan
+       id="tspan29">&quot;그런 성공 경험이 있으셨군요! 그때 어떤 접근방식이 특히 효과적이었나요?&quot;</tspan><tspan
+       x="80"
+       y="878"
+       font-weight="bold"
+       id="tspan30">고객:</tspan><tspan
+       id="tspan31">&quot;제가 평소보다 더 팀원들의 의견을 물어보고 반영했어요. 더 협력적인 방식으로</tspan><tspan
+       x="120"
+       y="908"
+       id="tspan32">진행했더니 결과물도 좋았던 것 같아요.&quot;</tspan><tspan
+       x="80"
+       y="938"
+       font-weight="bold"
+       id="tspan33">코치:</tspan><tspan
+       id="tspan34">&quot;협력적 접근이 좋은 결과로 이어졌군요. 그런데 지난번에 언급하셨던 신규</tspan><tspan
+       x="120"
+       y="968"
+       id="tspan35">프로젝트 팀에서의 갈등 상황에서도 이러한 협력적 접근을 적용할 수</tspan><tspan
+       x="120"
+       y="998"
+       id="tspan36">있는 방법이 있을까요?&quot;</tspan></text>
+  <!-- 질문 카드 섹션 -->
+  <rect
+     x="980"
+     y="688.0166"
+     width="880"
+     height="331.98337"
+     rx="10"
+     fill="#ffecb3"
+     id="rect36"
+     style="stroke-width:0.849531" />
+  <rect
+     x="1010.9906"
+     y="738.00555"
+     width="819.60596"
+     height="59.986782"
+     rx="5.6137395"
+     fill="#ffffff"
+     stroke="#4a90e2"
+     stroke-width="1.05948"
+     id="rect36-5" />
+  <text
+     x="1040.9609"
+     y="778.97583"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     font-weight="bold"
+     fill="#2c3e50"
+     id="text37-5"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">강점 중심 질문:</text>
+  <text
+     x="1240.9609"
+     y="776.97583"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#34495e"
+     id="text38"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">&quot;이 상황에서 당신의 어떤 강점이 도움이 될까요?&quot;</text>
+  <rect
+     x="1010.9906"
+     y="807.99017"
+     width="819.60596"
+     height="59.986782"
+     rx="5.6137395"
+     fill="#ffffff"
+     stroke="#4a90e2"
+     stroke-width="1.05948"
+     id="rect38" />
+  <text
+     x="1040.9609"
+     y="848.97583"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     font-weight="bold"
+     fill="#2c3e50"
+     id="text39"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">자원 활성화 질문:</text>
+  <text
+     x="1240.9609"
+     y="846.97583"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#34495e"
+     id="text40"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">&quot;이 목표를 달성하는 데 활용할 수 있는 자원은 무엇인가요?&quot;</text>
+  <rect
+     x="1010.9906"
+     y="877.97473"
+     width="819.60596"
+     height="59.986782"
+     rx="5.6137395"
+     fill="#ffffff"
+     stroke="#4a90e2"
+     stroke-width="1.05948"
+     id="rect40" />
+  <text
+     x="1040.9609"
+     y="918.97583"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     font-weight="bold"
+     fill="#2c3e50"
+     id="text41"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">가능성 확장 질문:</text>
+  <text
+     x="1240.9609"
+     y="916.97583"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#34495e"
+     id="text42"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">&quot;이 상황에서 어떤 새로운 가능성을 보시나요?&quot;</text>
+  <rect
+     x="1010.9906"
+     y="947.95929"
+     width="819.60596"
+     height="59.986782"
+     rx="5.6137395"
+     fill="#ffffff"
+     stroke="#4a90e2"
+     stroke-width="1.05948"
+     id="rect42" />
+  <text
+     x="1040.9609"
+     y="986.97583"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     font-weight="bold"
+     fill="#2c3e50"
+     id="text43"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">성공 시각화 질문:</text>
+  <text
+     x="1240.9609"
+     y="984.97583"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#34495e"
+     id="text44-1"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">&quot;성공적으로 이 목표를 달성했을 때 어떤 느낌일까요?&quot;</text>
+  <text
+     x="1000"
+     y="724"
+     font-family="Arial, sans-serif"
+     font-size="28px"
+     font-weight="bold"
+     fill="#ff6f00"
+     id="text37">즉시 사용 가능한 질문 카드</text>
+  <!-- 페이지 번호 -->
+  <text
+     x="1860"
+     y="1060"
+     font-family="Arial, sans-serif"
+     font-size="28px"
+     fill="#666666"
+     text-anchor="end"
+     id="text44">12</text>
+</svg>

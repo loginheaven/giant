@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1920"
+   height="1080"
+   version="1.1"
+   id="svg63"
+   sodipodi:docname="16.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs63" />
+  <sodipodi:namedview
+     id="namedview63"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="6.670374"
+     inkscape:cx="1841.9507"
+     inkscape:cy="994.84677"
+     inkscape:window-width="1080"
+     inkscape:window-height="1836"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg63" />
+  <!-- 배경 -->
+  <rect
+     width="1920"
+     height="1080"
+     fill="#F5F5F5"
+     id="rect1" />
+  <!-- 제목 영역 배경 -->
+  <rect
+     x="80"
+     y="350"
+     width="1463.1803"
+     height="120"
+     rx="18.289753"
+     fill="#bbdefb"
+     id="rect6"
+     style="stroke-width:1.35239" />
+  <rect
+     x="80"
+     y="490"
+     width="1463.1803"
+     height="120"
+     rx="18.289753"
+     fill="#c5e1a5"
+     id="rect13"
+     style="stroke-width:1.35239" />
+  <rect
+     x="80"
+     y="630"
+     width="1463.1803"
+     height="120"
+     rx="18.289753"
+     fill="#ffcc80"
+     id="rect19"
+     style="stroke-width:1.35239" />
+  <rect
+     x="80"
+     y="770"
+     width="1463.1803"
+     height="120"
+     rx="18.289753"
+     fill="#b39ddb"
+     id="rect25"
+     style="stroke-width:1.35239" />
+  <rect
+     x="80"
+     y="910"
+     width="1463.1803"
+     height="120"
+     rx="18.289753"
+     fill="#80deea"
+     id="rect31"
+     style="stroke-width:1.35239" />
+  <rect
+     x="0"
+     y="0"
+     width="1920"
+     height="120"
+     fill="#4285F4"
+     id="rect2" />
+  <!-- 제목 텍스트 -->
+  <text
+     x="60"
+     y="80"
+     font-family="Arial, sans-serif"
+     font-size="48"
+     font-weight="bold"
+     fill="white"
+     id="text2">5R 프레임에 적용한 해결중심 코칭</text>
+  <!-- 메인 콘텐츠 영역 -->
+  <rect
+     x="60"
+     y="150"
+     width="1800"
+     height="150"
+     rx="10"
+     fill="#E1F5FE"
+     id="rect3" />
+  <text
+     x="80"
+     y="200"
+     font-family="Arial, sans-serif"
+     font-size="26"
+     fill="#333333"
+     id="text5"><tspan
+       x="80"
+       y="200"
+       id="tspan3">해결중심 코칭 세션을 5R 프레임워크(Relation, Refocus, Reality, Resources, Responsibility)에 투영하면,</tspan><tspan
+       x="80"
+       y="240"
+       id="tspan4">앞서 소개한 핵심 기법들이 유기적으로 통합됩니다. 이 구조는 유연하게 적용되며, 고객의 필요와 상황에 따라 조정될 수 있습니다.</tspan><tspan
+       x="80"
+       y="280"
+       id="tspan5">이는 마치 즉흥 재즈 연주처럼, 기본 멜로디(프로세스)를 바탕으로 하되 그 순간의 흐름과 필요에 따라 창의적으로 변주하는 것입니다.</tspan></text>
+  <!-- 5R 프레임워크 다이어그램 -->
+  <!-- Relation -->
+  <text
+     x="100"
+     y="395"
+     font-family="Arial, sans-serif"
+     font-size="28"
+     font-weight="bold"
+     fill="#1565C0"
+     id="text6">1. 관계 구축 (Relation)</text>
+  <text
+     x="110"
+     y="435"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     fill="#333333"
+     id="text9"
+     style="white-space:pre;inline-size:615.397"
+     transform="translate(0,-2)"
+     xml:space="preserve"><tspan
+       x="110"
+       y="435"
+       id="tspan13">코칭 시작 단계에서는 고객과의 신뢰와안전감을 형성합니다.          </tspan><tspan
+       x="110"
+       y="460.48102"
+       id="tspan14">협력적 파트너십을확립하고, 코칭의 목적과 프로세스를설명합니다.</tspan></text>
+  <text
+     x="798.36749"
+     y="394.21555"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     fill="#333333"
+     font-weight="bold"
+     id="text10">주요 활용 기법:</text>
+  <text
+     x="995.21558"
+     y="391.58658"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#333333"
+     id="text11">경청, 공감, 협력적 합의</text>
+  <text
+     x="800"
+     y="433"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     fill="#333333"
+     font-weight="bold"
+     id="text12">핵심 질문:</text>
+  <text
+     x="912.92255"
+     y="431.85403"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     font-style="italic"
+     fill="#1565c0"
+     id="text13">&quot;요즘 어떻게 지내고 계신가요? 최근에 잘 되고 있는 일이 있으신가요?&quot;</text>
+  <!-- Refocus -->
+  <text
+     x="100"
+     y="535"
+     font-family="Arial, sans-serif"
+     font-size="28"
+     font-weight="bold"
+     fill="#558B2F"
+     id="text14">2. 목표 설정 (Refocus)</text>
+  <text
+     x="110"
+     y="575"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     fill="#333333"
+     id="text15"
+     style="white-space:pre;inline-size:596.828"
+     transform="translate(0,-2)"
+     xml:space="preserve"><tspan
+       x="110"
+       y="575"
+       id="tspan15">고객이 원하는 미래 상태를 명확히 하고,세션의 구체적인 목표를 </tspan><tspan
+       x="110"
+       y="600.48102"
+       id="tspan16">수립합니다.</tspan></text>
+  <text
+     x="798.36749"
+     y="534.21558"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     fill="#333333"
+     font-weight="bold"
+     id="text16">주요 활용 기법:</text>
+  <text
+     x="996.74908"
+     y="531.1272"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#333333"
+     id="text17">기적 질문, 미래 지향적 질문</text>
+  <text
+     x="800"
+     y="573"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     fill="#333333"
+     font-weight="bold"
+     id="text18">핵심 질문:</text>
+  <text
+     x="915.71985"
+     y="572.25604"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     font-style="italic"
+     fill="#558b2f"
+     id="text19">&quot;밤새 기적이 일어나 이 문제가 해결되었습니다, 어떤 모습일까요?&quot;</text>
+  <!-- Reality -->
+  <text
+     x="100"
+     y="675"
+     font-family="Arial, sans-serif"
+     font-size="28"
+     font-weight="bold"
+     fill="#EF6C00"
+     id="text20">3. 현실 점검 (Reality)</text>
+  <text
+     x="110"
+     y="715"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     fill="#333333"
+     id="text21"
+     style="white-space:pre;inline-size:600.948"
+     xml:space="preserve"><tspan
+       x="110"
+       y="715"
+       id="tspan17">현재 상태를 평가하고, 이미 존재하는자원과 강점을 발견합니다.</tspan></text>
+  <text
+     x="798.36749"
+     y="674.21558"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     fill="#333333"
+     font-weight="bold"
+     id="text22">주요 활용 기법:</text>
+  <text
+     x="993.35687"
+     y="672.8233"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#333333"
+     id="text23">척도 질문, 예외 탐색</text>
+  <text
+     x="800"
+     y="713"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     fill="#333333"
+     font-weight="bold"
+     id="text24">핵심 질문:</text>
+  <text
+     x="916.91589"
+     y="711.854"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     font-style="italic"
+     fill="#ef6c00"
+     id="text25">&quot;1-10 척도에서, 현재 어디에 계신다고 느끼시나요?&quot;</text>
+  <!-- Resources -->
+  <text
+     x="100"
+     y="815"
+     font-family="Arial, sans-serif"
+     font-size="28"
+     font-weight="bold"
+     fill="#4527A0"
+     id="text26">4. 자원 도출 (Resources)</text>
+  <text
+     x="110"
+     y="855"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     fill="#333333"
+     id="text27"
+     style="white-space:pre;inline-size:619.659"
+     transform="translate(0,-4)"
+     xml:space="preserve"><tspan
+       x="110"
+       y="855"
+       id="tspan18">고객의 내적, 외적 자원을 발견하고,해결책 구축을 위한 아이디어를 </tspan><tspan
+       x="110"
+       y="880.48102"
+       id="tspan19">탐색합니다.</tspan></text>
+  <text
+     x="798.36749"
+     y="814.21558"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     fill="#333333"
+     font-weight="bold"
+     id="text28">주요 활용 기법:</text>
+  <text
+     x="993.34277"
+     y="810.67493"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#333333"
+     id="text29">대처 질문, 관계 질문, 강점 탐색</text>
+  <text
+     x="800"
+     y="853"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     fill="#333333"
+     font-weight="bold"
+     id="text30">핵심 질문:</text>
+  <text
+     x="913.32123"
+     y="853.45532"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     font-style="italic"
+     fill="#4527a0"
+     id="text31">&quot;이런 어려운 상황에서도 어떻게 계속 나아가고 있나요?&quot;</text>
+  <!-- Responsibility -->
+  <text
+     x="100"
+     y="955"
+     font-family="Arial, sans-serif"
+     font-size="28"
+     font-weight="bold"
+     fill="#00838F"
+     id="text32">5. 실천 계획 (Responsibility)</text>
+  <text
+     x="110"
+     y="995"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     fill="#333333"
+     id="text34"
+     style="white-space:pre;inline-size:586.807"
+     transform="translate(0,-4)"
+     xml:space="preserve"><tspan
+       x="110"
+       y="995"
+       id="tspan20">구체적이고 실행 가능한 행동 계획을수립하고, 실천을 위한 지원 </tspan><tspan
+       x="110"
+       y="1020.481"
+       id="tspan21">구조를마련합니다.</tspan></text>
+  <text
+     x="802"
+     y="961"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     fill="#333333"
+     font-weight="bold"
+     id="text35">주요 활용 기법:</text>
+  <text
+     x="962.26147"
+     y="961.30389"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#333333"
+     id="text36">행동 실험 설계, 실행 계획, 후속 조치</text>
+  <text
+     x="802"
+     y="1003"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     fill="#333333"
+     font-weight="bold"
+     id="text37">핵심 질문:</text>
+  <text
+     x="917.69611"
+     y="1000.8622"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     font-style="italic"
+     fill="#00838f"
+     id="text38">&quot;다음 주에 시도해볼 수 있는 작은 변화는 무엇인가요?&quot;</text>
+  <!-- 오른쪽 다이어그램 -->
+  <!-- 원형 다이어그램 for 5R -->
+  <!-- 중심원 -->
+  <!-- 5R 요소들을 원형으로 배치 -->
+  <!-- Relation -->
+  <!-- Refocus -->
+  <!-- Reality -->
+  <!-- Resources -->
+  <!-- Responsibility -->
+  <!-- 연결선 -->
+  <!-- 해결중심 기법 배치 -->
+  <!-- 해결중심 코칭 통합 제목 -->
+  <!-- 페이지 번호 -->
+  <line
+     x1="764.27557"
+     y1="349.54062"
+     x2="764.27557"
+     y2="1027.5618"
+     stroke="#ffffff"
+     stroke-width="4.75402"
+     id="line6" />
+  <text
+     x="1860"
+     y="1060"
+     font-family="Arial, sans-serif"
+     font-size="28px"
+     fill="#666666"
+     text-anchor="end"
+     id="text63">15</text>
+</svg>

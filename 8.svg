@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1920"
+   height="1080"
+   version="1.1"
+   id="svg38"
+   sodipodi:docname="8.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs38" />
+  <sodipodi:namedview
+     id="namedview38"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.503125"
+     inkscape:cx="1547.4428"
+     inkscape:cy="410.81081"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="1072"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg38" />
+  <!-- 배경 -->
+  <rect
+     width="1920"
+     height="1080"
+     fill="#F5F5F5"
+     id="rect1" />
+  <!-- 제목 영역 배경 -->
+  <rect
+     x="0"
+     y="0"
+     width="1920"
+     height="120"
+     fill="#4285F4"
+     id="rect2" />
+  <!-- 제목 텍스트 -->
+  <text
+     x="60"
+     y="80"
+     font-family="Arial, sans-serif"
+     font-size="48px"
+     font-weight="bold"
+     fill="#ffffff"
+     id="text2">핵심 코칭 기법 - 기적 질문</text>
+  <!-- 왼쪽 섹션 - 정의 및 설명 -->
+  <rect
+     x="60"
+     y="160"
+     width="880"
+     height="250.64449"
+     rx="10"
+     fill="#e1f5fe"
+     id="rect3"
+     style="stroke-width:1.02194" />
+  <text
+     x="80"
+     y="200"
+     font-family="Arial, sans-serif"
+     font-size="32"
+     font-weight="bold"
+     fill="#0D47A1"
+     id="text3">기적 질문 (Miracle Question)</text>
+  <text
+     x="80"
+     y="250"
+     font-family="Arial, sans-serif"
+     font-size="24"
+     fill="#333333"
+     id="text5"><tspan
+       x="80"
+       y="250"
+       id="tspan3">&quot;내일 아침 잠에서 깨어났을 때, 기적이 일어나 이 문제가 해결되었습니다.</tspan><tspan
+       x="80"
+       y="285"
+       id="tspan4">그런데 당신은 잠들어 있었기 때문에 기적이 일어났다는 것을 모릅니다.</tspan><tspan
+       x="80"
+       y="320"
+       id="tspan5">어떤 변화를 통해 기적이 일어났음을 알게 될까요?&quot;</tspan></text>
+  <text
+     x="80"
+     y="370"
+     font-family="Arial, sans-serif"
+     font-size="22"
+     fill="#333333"
+     id="text7"><tspan
+       x="80"
+       y="370"
+       id="tspan6">문제를 분석하는 대신 바람직한 미래 상태에 초점을 맞추어 목표를 명확히 하고,</tspan><tspan
+       x="80"
+       y="400"
+       id="tspan7">원하는 결과에 집중할 수 있게 합니다.</tspan></text>
+  <!-- 오른쪽 섹션 - 다이어그램 -->
+  <rect
+     x="980"
+     y="160"
+     width="880"
+     height="415.92517"
+     rx="10"
+     fill="#e8f5e9"
+     id="rect7"
+     style="stroke-width:1.0462" />
+  <circle
+     cx="1045"
+     cy="266"
+     r="20"
+     fill="#4a90e2"
+     id="circle23" />
+  <text
+     x="1045"
+     y="273"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     font-weight="bold"
+     fill="#ffffff"
+     text-anchor="middle"
+     id="text24">1</text>
+  <text
+     x="1085"
+     y="274"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     fill="#34495e"
+     id="text25"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">기적 질문 도입: 편안한 분위기에서 질문 소개하기</text>
+  <circle
+     cx="1045"
+     cy="322"
+     r="20"
+     fill="#4a90e2"
+     id="circle25" />
+  <text
+     x="1045"
+     y="329"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     font-weight="bold"
+     fill="#ffffff"
+     text-anchor="middle"
+     id="text26">2</text>
+  <text
+     x="1085"
+     y="330"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     fill="#34495e"
+     id="text27"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">구체화: &quot;무엇이 다를까요?&quot;, &quot;어떤 변화를 알아차릴까요?&quot;</text>
+  <circle
+     cx="1045"
+     cy="378"
+     r="20"
+     fill="#4a90e2"
+     id="circle27" />
+  <text
+     x="1045"
+     y="385"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     font-weight="bold"
+     fill="#ffffff"
+     text-anchor="middle"
+     id="text28">3</text>
+  <text
+     x="1085"
+     y="386"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     fill="#34495e"
+     id="text29"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">타인의 시각 활용: &quot;다른 사람들은 어떤 변화를 알아차릴까요?&quot;</text>
+  <circle
+     cx="1045"
+     cy="434"
+     r="20"
+     fill="#4a90e2"
+     id="circle29" />
+  <text
+     x="1045"
+     y="441"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     font-weight="bold"
+     fill="#ffffff"
+     text-anchor="middle"
+     id="text30">4</text>
+  <text
+     x="1085"
+     y="442"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     fill="#34495e"
+     id="text31"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">작은 징후 탐색: &quot;가장 먼저 알아차릴 작은 변화는 무엇일까요?&quot;</text>
+  <circle
+     cx="1045"
+     cy="490"
+     r="20"
+     fill="#4a90e2"
+     id="circle31"
+     style="fill:#00ffff" />
+  <text
+     x="1045"
+     y="497"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     font-weight="bold"
+     fill="#ffffff"
+     text-anchor="middle"
+     id="text32-0"
+     style="fill:#000080">5</text>
+  <text
+     x="1085"
+     y="498"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     fill="#34495e"
+     id="text33-9"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">예외 연결: &quot;이미 조금이라도 일어나고 있는 부분이 있나요?&quot;</text>
+  <!-- 기적 질문 프로세스 다이어그램 -->
+  <text
+     x="1000"
+     y="200"
+     font-family="Arial, sans-serif"
+     font-size="28"
+     font-weight="bold"
+     fill="#33691E"
+     id="text8">기적 질문 프로세스</text>
+  <!-- 프로세스 흐름도 -->
+  <!-- 중간 영역 - 적용 방법 -->
+  <rect
+     x="60"
+     y="420"
+     width="880"
+     height="280"
+     rx="10"
+     fill="#DCEDC8"
+     id="rect11" />
+  <text
+     x="80"
+     y="460"
+     font-family="Arial, sans-serif"
+     font-size="28px"
+     font-weight="bold"
+     fill="#33691e"
+     id="text12"
+     style="-inkscape-font-specification:'Sans, Bold';font-family:Sans;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:32px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#33691e">효과</text>
+  <!-- 기적질문의 영향 - 우측 중간 -->
+  <rect
+     x="980"
+     y="590"
+     width="880"
+     height="180"
+     rx="10"
+     fill="#fff8e1"
+     id="rect17" />
+  <text
+     x="1000"
+     y="630"
+     font-family="Arial, sans-serif"
+     font-size="28px"
+     font-weight="bold"
+     fill="#f57f17"
+     id="text18">기적 질문의 영향</text>
+  <text
+     x="1000"
+     y="670"
+     font-family="Arial, sans-serif"
+     font-size="22px"
+     fill="#333333"
+     id="text20"><tspan
+       x="1000"
+       y="670"
+       id="tspan18">• 고객이 이상적인 미래 상태를 구체적으로 상상하게 합니다.</tspan><tspan
+       x="1000"
+       y="705"
+       id="tspan19">• 문제가 아닌 원하는 결과에 초점을 맞추게 합니다.</tspan><tspan
+       x="1000"
+       y="740"
+       id="tspan20">• 기적을 만드는 사람은 바로 자신임을 깨닫게 하여 변화 동기를 부여합니다.</tspan></text>
+  <!-- 코칭 대화 예시 및 질문 카드 섹션 -->
+  <rect
+     x="60"
+     y="720"
+     width="880"
+     height="334.5946"
+     rx="10"
+     fill="#fff9c4"
+     id="rect20"
+     style="stroke-width:1.05608" />
+  <text
+     x="80"
+     y="760"
+     font-family="Arial, sans-serif"
+     font-size="28"
+     font-weight="bold"
+     fill="#F57F17"
+     id="text21">코칭 대화 예시</text>
+  <text
+     x="80"
+     y="800"
+     font-family="Arial, sans-serif"
+     font-size="20"
+     fill="#333333"
+     id="text32"><tspan
+       x="80"
+       y="800"
+       font-weight="bold"
+       id="tspan21">코치:</tspan><tspan
+       id="tspan22"> &quot;밤새 기적이 일어나서 리더십 고민이 해결된 상태입니다. 아침에 어떤 모습으로</tspan><tspan
+       x="80"
+       y="830"
+       id="tspan23"> 하루를 시작하실 것 같나요?&quot;</tspan><tspan
+       x="80"
+       y="870"
+       font-weight="bold"
+       id="tspan24">고객:</tspan><tspan
+       id="tspan25"> &quot;음... 아마도 더 편안한 마음으로 출근할 것 같아요. 팀 회의에 대한 불안감도</tspan><tspan
+       x="80"
+       y="900"
+       id="tspan26"> 없고, 자신감 있게 일정을 계획할 것 같습니다.&quot;</tspan><tspan
+       x="80"
+       y="940"
+       font-weight="bold"
+       id="tspan27">코치:</tspan><tspan
+       id="tspan28"> &quot;그렇게 편안하고 자신감 있는 상태에서, 팀원들과는 어떻게 다르게 소통하실</tspan><tspan
+       x="80"
+       y="970"
+       id="tspan29"> 것 같나요?&quot;</tspan><tspan
+       x="80"
+       y="1010"
+       font-weight="bold"
+       id="tspan30">고객:</tspan><tspan
+       id="tspan31"> &quot;더 열린 자세로 대화할 것 같아요. 그들의 의견을 제대로 듣고, 내 생각도</tspan><tspan
+       x="80"
+       y="1040"
+       id="tspan32"> 분명히 전달하고... 모두가 참여하는 분위기를 만들 것 같습니다.&quot;</tspan></text>
+  <!-- 질문 카드 섹션 -->
+  <rect
+     x="980"
+     y="782.61957"
+     width="880"
+     height="269.31393"
+     rx="10"
+     fill="#ffecb3"
+     id="rect32"
+     style="stroke-width:1.01775" />
+  <text
+     x="1000"
+     y="818"
+     font-family="Arial, sans-serif"
+     font-size="28px"
+     font-weight="bold"
+     fill="#ff6f00"
+     id="text33">즉시 사용 가능한 질문 카드</text>
+  <rect
+     x="1000"
+     y="848"
+     width="840"
+     height="40"
+     rx="5"
+     fill="#ffffff"
+     stroke="#ffb74d"
+     stroke-width="2"
+     id="rect33" />
+  <text
+     x="1020"
+     y="878"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#333333"
+     id="text34">&quot;밤새 기적이 일어나 직면한 도전이 해결되었습니다. 내일 아침 가장 먼저 어떤 변화를 알아차릴까요?&quot;</text>
+  <rect
+     x="1000"
+     y="898"
+     width="840"
+     height="40"
+     rx="5"
+     fill="#ffffff"
+     stroke="#ffb74d"
+     stroke-width="2"
+     id="rect34" />
+  <text
+     x="1020"
+     y="928"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#333333"
+     id="text35">&quot;기적이 일어난 후 당신이 다르게 행동하는 가장 작은 방식은 무엇일까요?&quot;</text>
+  <rect
+     x="1000"
+     y="948"
+     width="840"
+     height="40"
+     rx="5"
+     fill="#ffffff"
+     stroke="#ffb74d"
+     stroke-width="2"
+     id="rect35" />
+  <text
+     x="1020"
+     y="978"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#333333"
+     id="text36">&quot;기적이 일어났을 때, 당신 주변 사람들은 어떤 변화를 알아차릴까요? 누가 가장 먼저 알아차릴까요?&quot;</text>
+  <rect
+     x="1000"
+     y="998"
+     width="840"
+     height="40"
+     rx="5"
+     fill="#ffffff"
+     stroke="#ffb74d"
+     stroke-width="2"
+     id="rect36" />
+  <text
+     x="1020"
+     y="1028"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#333333"
+     id="text37">&quot;이 기적이 조금씩 일어나고 있는 증거가 있다면, 그것은 무엇일까요?&quot;</text>
+  <!-- 페이지 번호 -->
+  <text
+     x="1878"
+     y="1060"
+     font-family="Arial, sans-serif"
+     font-size="28px"
+     fill="#666666"
+     text-anchor="end"
+     id="text38">7</text>
+  <circle
+     cx="102"
+     cy="501.85547"
+     r="8"
+     fill="#4a90e2"
+     id="circle8" />
+  <text
+     x="132"
+     y="506.85547"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     fill="#34495e"
+     id="text9"
+     style="-inkscape-font-specification:'Arial, sans-serif, Normal';font-family:Arial, sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:24px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">문제의 프레임에서 벗어나 해결책 지향적 사고로 전환</text>
+  <circle
+     cx="102"
+     cy="551.85547"
+     r="8"
+     fill="#4a90e2"
+     id="circle9" />
+  <text
+     x="132"
+     y="556.85547"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     fill="#34495e"
+     id="text10"
+     style="-inkscape-font-specification:'Arial, sans-serif, Normal';font-family:Arial, sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:24px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">바라는 미래 상태에 대한 구체적이고 생생한 비전 형성</text>
+  <circle
+     cx="102"
+     cy="601.85547"
+     r="8"
+     fill="#4a90e2"
+     id="circle10" />
+  <text
+     x="132"
+     y="606.85547"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     fill="#34495e"
+     id="text11"
+     style="-inkscape-font-specification:'Arial, sans-serif, Normal';font-family:Arial, sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:24px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">실현 가능한 목표와 필요한 단계를 명확히 하는 데 도움</text>
+  <circle
+     cx="102"
+     cy="651.85547"
+     r="8"
+     fill="#4a90e2"
+     id="circle11" />
+  <text
+     x="132"
+     y="656.85547"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     fill="#34495e"
+     id="text12-4"
+     style="-inkscape-font-specification:'Arial, sans-serif, Normal';font-family:Arial, sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:24px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">고객의 내재된 희망과 욕구를 끌어내어 동기 부여</text>
+</svg>

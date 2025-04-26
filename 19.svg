@@ -1,0 +1,711 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1920"
+   height="1080"
+   version="1.1"
+   id="svg62"
+   sodipodi:docname="19.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs62" />
+  <sodipodi:namedview
+     id="namedview62"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.83379674"
+     inkscape:cx="1850.5709"
+     inkscape:cy="734.5915"
+     inkscape:window-width="1101"
+     inkscape:window-height="929"
+     inkscape:window-x="762"
+     inkscape:window-y="112"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg62" />
+  <!-- 배경 -->
+  <rect
+     width="1920"
+     height="1080"
+     fill="#F5F5F5"
+     id="rect1" />
+  <!-- 제목 영역 배경 -->
+  <rect
+     x="0"
+     y="0"
+     width="1920"
+     height="120"
+     fill="#4285F4"
+     id="rect2" />
+  <!-- 제목 텍스트 -->
+  <text
+     x="60"
+     y="80"
+     font-family="Arial, sans-serif"
+     font-size="48"
+     font-weight="bold"
+     fill="white"
+     id="text2">셀프 해결중심 코칭 적용 가이드</text>
+  <!-- 소개 영역 -->
+  <rect
+     x="60"
+     y="150"
+     width="1800"
+     height="100"
+     rx="10"
+     fill="#E1F5FE"
+     id="rect3" />
+  <text
+     x="80"
+     y="190"
+     font-family="Arial, sans-serif"
+     font-size="22"
+     fill="#333333"
+     id="text4"><tspan
+       x="80"
+       y="190"
+       id="tspan3">해결중심 접근법은 코치-고객 관계에서뿐만 아니라 셀프코칭에도 매우 효과적으로 적용될 수 있습니다. 자신의 도전과 목표에</tspan><tspan
+       x="80"
+       y="225"
+       id="tspan4">직면했을 때, 다음과 같은 기법을 스스로에게 적용해 보세요.</tspan></text>
+  <!-- 왼쪽 컬럼: 주요 셀프코칭 기법 -->
+  <rect
+     x="60"
+     y="270"
+     width="580"
+     height="760"
+     rx="10"
+     fill="#F1F8E9"
+     id="rect4" />
+  <text
+     x="80"
+     y="310"
+     font-family="Arial, sans-serif"
+     font-size="26"
+     font-weight="bold"
+     fill="#33691E"
+     id="text5">핵심 셀프코칭 기법</text>
+  <!-- 기법 1: 미래 지향적 질문하기 -->
+  <rect
+     x="80"
+     y="330"
+     width="540"
+     height="140"
+     rx="5"
+     fill="#DCEDC8"
+     id="rect5" />
+  <text
+     x="100"
+     y="362"
+     font-family="Arial, sans-serif"
+     font-size="22px"
+     font-weight="bold"
+     fill="#33691e"
+     id="text6">1. 미래 지향적 질문하기</text>
+  <text
+     x="100"
+     y="392"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#333333"
+     id="text7"><tspan
+       x="100"
+       y="392"
+       id="tspan6">원하는 결과에 초점을 맞추어 문제 상황보다 해결된</tspan><tspan
+       x="100"
+       y="417"
+       id="tspan7">상태를 상상하는 기법입니다.</tspan></text>
+  <text
+     x="100"
+     y="447"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#333333"
+     font-style="italic"
+     id="text8"><tspan
+       x="100"
+       y="447"
+       id="tspan8">&quot;이 문제가 해결된다면 내 삶은 어떻게 달라질까?&quot;</tspan></text>
+  <!-- 기법 2: 예외 상황 찾기 -->
+  <rect
+     x="80"
+     y="484"
+     width="540"
+     height="156.96112"
+     rx="5"
+     fill="#dcedc8"
+     id="rect8"
+     style="stroke-width:1.05884" />
+  <text
+     x="100"
+     y="516"
+     font-family="Arial, sans-serif"
+     font-size="22px"
+     font-weight="bold"
+     fill="#33691e"
+     id="text9">2. 예외 상황 찾기</text>
+  <text
+     x="100"
+     y="546"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#333333"
+     id="text10"><tspan
+       x="100"
+       y="546"
+       id="tspan9">문제가 덜 심각하거나 없었던 때를 찾아 성공 요소를</tspan><tspan
+       x="100"
+       y="571"
+       id="tspan10">파악하는 기법입니다.</tspan></text>
+  <text
+     x="100"
+     y="599"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#333333"
+     font-style="italic"
+     id="text12"><tspan
+       x="100"
+       y="599"
+       id="tspan11">&quot;이 문제가 덜 심각하거나 전혀 발생하지 않았던 때가</tspan><tspan
+       x="100"
+       y="624"
+       id="tspan12">있었나? 그때 무엇이 달랐지?&quot;</tspan></text>
+  <!-- 기법 3: 척도 질문 활용하기 -->
+  <rect
+     x="80"
+     y="656"
+     width="540"
+     height="140"
+     rx="5"
+     fill="#dcedc8"
+     id="rect12" />
+  <text
+     x="100"
+     y="684"
+     font-family="Arial, sans-serif"
+     font-size="22px"
+     font-weight="bold"
+     fill="#33691e"
+     id="text13">3. 척도 질문 활용하기</text>
+  <text
+     x="100"
+     y="714"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#333333"
+     id="text14"><tspan
+       x="100"
+       y="714"
+       id="tspan13">추상적인 상황이나 감정을 1-10 척도로 구체화하여</tspan><tspan
+       x="100"
+       y="739"
+       id="tspan14">진전을 측정하고, 다음 단계를 명확히 하는 기법입니다.</tspan></text>
+  <text
+     x="100"
+     y="769"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#333333"
+     font-style="italic"
+     id="text15"><tspan
+       x="100"
+       y="769"
+       id="tspan15">&quot;1에서 10까지의 척도에서, 현재 나는 어디에 있는가?&quot;</tspan></text>
+  <!-- 기법 4: 작은 변화 실험하기 -->
+  <rect
+     x="80"
+     y="810"
+     width="540"
+     height="177.3145"
+     rx="5"
+     fill="#dcedc8"
+     id="rect15"
+     style="stroke-width:1.12541" />
+  <text
+     x="100"
+     y="842"
+     font-family="Arial, sans-serif"
+     font-size="22px"
+     font-weight="bold"
+     fill="#33691e"
+     id="text16">4. 작은 변화 실험하기</text>
+  <text
+     x="100"
+     y="872"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#333333"
+     id="text17"><tspan
+       x="100"
+       y="872"
+       id="tspan16">대규모 변화보다 작고 구체적인 실험을 통해 점진적</tspan><tspan
+       x="100"
+       y="897"
+       id="tspan17">발전을 이루는 기법입니다.</tspan></text>
+  <text
+     x="100"
+     y="927"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#333333"
+     font-style="italic"
+     id="text19"><tspan
+       x="100"
+       y="927"
+       id="tspan18">&quot;다음 24-48시간 동안 시도해볼 수 있는 가장 작은</tspan><tspan
+       x="100"
+       y="952"
+       id="tspan19">변화는 무엇일까?&quot;</tspan></text>
+  <rect
+     x="1280"
+     y="270"
+     width="580"
+     height="760"
+     rx="10"
+     fill="#E8EAF6"
+     id="rect45" />
+  <!-- 중앙 컬럼: 셀프코칭 프로세스 다이어그램 -->
+  <!-- 셀프코칭 프로세스 다이어그램 -->
+  <!-- 다이어그램 원형 단계 -->
+  <!-- 프로세스 단계별 설명 -->
+  <!-- 왼쪽 설명 -->
+  <rect
+     x="660"
+     y="270"
+     width="684.80566"
+     height="760"
+     rx="11.413427"
+     fill="#fff3e0"
+     id="rect19"
+     style="stroke-width:1.06834" />
+  <text
+     x="680"
+     y="310"
+     font-family="Arial, sans-serif"
+     font-size="26px"
+     font-weight="bold"
+     fill="#e65100"
+     id="text20">셀프코칭 프로세스</text>
+  <rect
+     x="680"
+     y="340"
+     width="560"
+     height="670"
+     rx="5"
+     fill="#fff8e1"
+     id="rect20" />
+  <circle
+     cx="960"
+     cy="430"
+     r="70"
+     fill="#ffb74d"
+     stroke="#e65100"
+     stroke-width="3"
+     id="circle20" />
+  <text
+     x="960"
+     y="435"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     font-weight="bold"
+     fill="#333333"
+     text-anchor="middle"
+     id="text21">1. 목표 명확화</text>
+  <polygon
+     points="980,530 940,530 960,510 "
+     fill="#e65100"
+     id="polygon21"
+     transform="matrix(1,0,0,-1,0,1376.402)" />
+  <circle
+     cx="960"
+     cy="600"
+     r="70"
+     fill="#ffcc80"
+     stroke="#e65100"
+     stroke-width="3"
+     id="circle21" />
+  <text
+     x="960"
+     y="605"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     font-weight="bold"
+     fill="#333333"
+     text-anchor="middle"
+     id="text22">2. 자원 탐색</text>
+  <polygon
+     points="980,700 940,700 960,680 "
+     fill="#e65100"
+     id="polygon22"
+     transform="matrix(1,0,0,-1,0,1376.402)" />
+  <circle
+     cx="960"
+     cy="770"
+     r="70"
+     fill="#ffe0b2"
+     stroke="#e65100"
+     stroke-width="3"
+     id="circle22" />
+  <text
+     x="960"
+     y="775"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     font-weight="bold"
+     fill="#333333"
+     text-anchor="middle"
+     id="text23">3. 행동 계획</text>
+  <polygon
+     points="980,870 940,870 960,850 "
+     fill="#e65100"
+     id="polygon23"
+     transform="matrix(1,0,0,-1,0,1376.402)" />
+  <circle
+     cx="960"
+     cy="940"
+     r="70"
+     fill="#fff3e0"
+     stroke="#e65100"
+     stroke-width="3"
+     id="circle23" />
+  <text
+     x="960"
+     y="945"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     font-weight="bold"
+     fill="#333333"
+     text-anchor="middle"
+     id="text24">4. 실행 및 평가</text>
+  <text
+     x="1058"
+     y="416"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#333333"
+     id="text25"><tspan
+       x="1058"
+       y="416"
+       id="tspan24">• 원하는 미래 상태 생생하게 상상</tspan><tspan
+       x="1058"
+       y="441"
+       id="tspan25">• 구체적인 목표 설정</tspan></text>
+  <text
+     x="1058"
+     y="586"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#333333"
+     id="text28"><tspan
+       x="1058"
+       y="586"
+       id="tspan26">• 예외 상황 발견</tspan><tspan
+       x="1058"
+       y="611"
+       id="tspan27">• 강점과 성공 경험 파악</tspan><tspan
+       x="1058"
+       y="636"
+       id="tspan28">• 이용 가능한 자원 확인</tspan></text>
+  <text
+     x="1058"
+     y="756"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#333333"
+     id="text30"><tspan
+       x="1058"
+       y="756"
+       id="tspan29">• 작은 첫 단계 설계</tspan><tspan
+       x="1058"
+       y="781"
+       id="tspan30">• 구체적이고 실행 가능한 계획</tspan></text>
+  <text
+     x="1058"
+     y="926"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#333333"
+     id="text33"><tspan
+       x="1058"
+       y="926"
+       id="tspan31">• 계획 실행 및 결과 관찰</tspan><tspan
+       x="1058"
+       y="951"
+       id="tspan32">• 척도로 진전 평가</tspan><tspan
+       x="1058"
+       y="976"
+       id="tspan33">• 다음 단계 조정</tspan></text>
+  <text
+     x="718"
+     y="412"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#333333"
+     id="text36"><tspan
+       x="718"
+       y="412"
+       id="tspan34">기법:</tspan><tspan
+       x="718"
+       y="437"
+       id="tspan35">미래 지향적 질문</tspan><tspan
+       x="718"
+       y="462"
+       id="tspan36">기적 질문</tspan></text>
+  <text
+     x="718"
+     y="582"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#333333"
+     id="text39"><tspan
+       x="718"
+       y="582"
+       id="tspan37">기법:</tspan><tspan
+       x="718"
+       y="607"
+       id="tspan38">예외 탐색</tspan><tspan
+       x="718"
+       y="632"
+       id="tspan39">강점 발견 질문</tspan></text>
+  <text
+     x="718"
+     y="752"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#333333"
+     id="text42"><tspan
+       x="718"
+       y="752"
+       id="tspan40">기법:</tspan><tspan
+       x="718"
+       y="777"
+       id="tspan41">척도 질문</tspan><tspan
+       x="718"
+       y="802"
+       id="tspan42">작은 변화 설계</tspan></text>
+  <text
+     x="718"
+     y="922"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#333333"
+     id="text45"><tspan
+       x="718"
+       y="922"
+       id="tspan43">기법:</tspan><tspan
+       x="718"
+       y="947"
+       id="tspan44">실험 기록</tspan><tspan
+       x="718"
+       y="972"
+       id="tspan45">성찰 일지</tspan></text>
+  <!-- 오른쪽 컬럼: 7일 셀프코칭 챌린지 -->
+  <text
+     x="1426"
+     y="302"
+     font-family="Arial, sans-serif"
+     font-size="26px"
+     font-weight="bold"
+     fill="#3f51b5"
+     id="text46">7일 셀프코칭 챌린지</text>
+  <!-- 챌린지 일정 -->
+  <rect
+     x="1406.8551"
+     y="340"
+     width="433.14487"
+     height="80"
+     rx="4.0106006"
+     fill="#c5cae9"
+     id="rect46"
+     style="stroke-width:0.895612" />
+  <text
+     x="1446"
+     y="377"
+     font-family="Arial, sans-serif"
+     font-size="22px"
+     font-weight="bold"
+     fill="#1a237e"
+     id="text47">Day 1: 현실 평가와 목표 설정</text>
+  <text
+     x="1446"
+     y="407"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#333333"
+     id="text48">현재 상황 척도 평가 및 미래 목표 명확화</text>
+  <rect
+     x="1406.8551"
+     y="430"
+     width="433.14487"
+     height="80"
+     rx="4.0106006"
+     fill="#c5cae9"
+     id="rect48"
+     style="stroke-width:0.895612" />
+  <text
+     x="1446"
+     y="467"
+     font-family="Arial, sans-serif"
+     font-size="22px"
+     font-weight="bold"
+     fill="#1a237e"
+     id="text49">Day 2: 예외 상황 탐색</text>
+  <text
+     x="1446"
+     y="497"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#333333"
+     id="text50">문제가 덜했던 순간들을 발견하고 패턴 분석</text>
+  <rect
+     x="1406.8551"
+     y="520"
+     width="433.14487"
+     height="80"
+     rx="4.0106006"
+     fill="#c5cae9"
+     id="rect50"
+     style="stroke-width:0.895612" />
+  <text
+     x="1446"
+     y="557"
+     font-family="Arial, sans-serif"
+     font-size="22px"
+     font-weight="bold"
+     fill="#1a237e"
+     id="text51">Day 3: 자원과 강점 인벤토리</text>
+  <text
+     x="1446"
+     y="587"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#333333"
+     id="text52">개인적 강점과 활용 가능한 자원 목록 작성</text>
+  <rect
+     x="1406.8551"
+     y="610"
+     width="433.14487"
+     height="80"
+     rx="4.0106006"
+     fill="#c5cae9"
+     id="rect52"
+     style="stroke-width:0.895612" />
+  <text
+     x="1446"
+     y="647"
+     font-family="Arial, sans-serif"
+     font-size="22px"
+     font-weight="bold"
+     fill="#1a237e"
+     id="text53">Day 4: 작은 변화 실험 설계</text>
+  <text
+     x="1446"
+     y="677"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#333333"
+     id="text54">24시간 이내 실행할 작은 변화 계획</text>
+  <rect
+     x="1406.8551"
+     y="700"
+     width="433.14487"
+     height="80"
+     rx="4.0106006"
+     fill="#c5cae9"
+     id="rect54"
+     style="stroke-width:0.895612" />
+  <text
+     x="1446"
+     y="737"
+     font-family="Arial, sans-serif"
+     font-size="22px"
+     font-weight="bold"
+     fill="#1a237e"
+     id="text55">Day 5: 실험 실행 및 관찰</text>
+  <text
+     x="1446"
+     y="767"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#333333"
+     id="text56">계획 실행 및 효과 관찰 기록</text>
+  <rect
+     x="1406.8551"
+     y="790"
+     width="433.14487"
+     height="80"
+     rx="4.0106006"
+     fill="#c5cae9"
+     id="rect56"
+     style="stroke-width:0.895612" />
+  <text
+     x="1446"
+     y="827"
+     font-family="Arial, sans-serif"
+     font-size="22px"
+     font-weight="bold"
+     fill="#1a237e"
+     id="text57">Day 6: 실험 확장 및 조정</text>
+  <text
+     x="1446"
+     y="857"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#333333"
+     id="text58">효과적인 변화 확장하고 수정 사항 반영</text>
+  <rect
+     x="1406.8551"
+     y="880"
+     width="433.14487"
+     height="80"
+     rx="4.0106006"
+     fill="#c5cae9"
+     id="rect58"
+     style="stroke-width:0.895612" />
+  <text
+     x="1446"
+     y="917"
+     font-family="Arial, sans-serif"
+     font-size="22px"
+     font-weight="bold"
+     fill="#1a237e"
+     id="text59">Day 7: 평가 및 장기 계획 수립</text>
+  <text
+     x="1446"
+     y="947"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#333333"
+     id="text60">1주일 성과 평가 및 지속 가능한 계획 수립</text>
+  <text
+     x="1448"
+     y="999"
+     font-family="Arial, sans-serif"
+     font-size="16px"
+     fill="#3f51b5"
+     id="text61"><tspan
+       x="1448"
+       y="999"
+       id="tspan60">7일 챌린지 워크시트는 PDF로 별도 제공합니다:</tspan><tspan
+       x="1448"
+       y="1024"
+       font-style="italic"
+       id="tspan61" /></text>
+  <!-- 페이지 번호 -->
+  <text
+     x="1860"
+     y="1060"
+     font-family="Arial, sans-serif"
+     font-size="28px"
+     fill="#666666"
+     text-anchor="end"
+     id="text62">18</text>
+</svg>

@@ -1,0 +1,63 @@
+<svg width="1920" height="1080" xmlns="http://www.w3.org/2000/svg">
+  <!-- 배경 -->
+  <rect width="1920" height="1080" fill="#F5F5F5"/>
+  
+  <!-- 제목 영역 배경 -->
+  <rect x="0" y="0" width="1920" height="120" fill="#4285F4"/>
+  
+  <!-- 제목 텍스트 -->
+  <text x="60" y="80" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="white">목차</text>
+  
+  <!-- 목차 항목들 -->
+  <rect x="200" y="170" width="1500" height="800" rx="10" fill="#E1F5FE"/>
+  
+  <!-- 왼쪽 목차 항목 -->
+  <rect x="250" y="220" width="60" height="60" rx="30" fill="#4285F4"/>
+  <text x="280" y="260" font-family="Arial, sans-serif" font-size="30" font-weight="bold" fill="white" text-anchor="middle">1</text>
+  <text x="340" y="260" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#0D47A1">인수 킴의 생애와 여정</text>
+  
+  <rect x="250" y="320" width="60" height="60" rx="30" fill="#4285F4"/>
+  <text x="280" y="360" font-family="Arial, sans-serif" font-size="30" font-weight="bold" fill="white" text-anchor="middle">2</text>
+  <text x="340" y="360" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#0D47A1">해결중심 접근법의 핵심 모델</text>
+  
+  <rect x="250" y="420" width="60" height="60" rx="30" fill="#4285F4"/>
+  <text x="280" y="460" font-family="Arial, sans-serif" font-size="30" font-weight="bold" fill="white" text-anchor="middle">3</text>
+  <text x="340" y="460" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#0D47A1">해결중심 코칭 기본 프로세스</text>
+  
+  <rect x="250" y="520" width="60" height="60" rx="30" fill="#4285F4"/>
+  <text x="280" y="560" font-family="Arial, sans-serif" font-size="30" font-weight="bold" fill="white" text-anchor="middle">4</text>
+  <text x="340" y="560" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#0D47A1">핵심 코칭 기법</text>
+  <text x="380" y="610" font-family="Arial, sans-serif" font-size="28" fill="#333333">- 기적 질문</text>
+  <text x="380" y="660" font-family="Arial, sans-serif" font-size="28" fill="#333333">- 예외 탐색</text>
+  <text x="380" y="710" font-family="Arial, sans-serif" font-size="28" fill="#333333">- 척도 질문</text>
+  <text x="380" y="760" font-family="Arial, sans-serif" font-size="28" fill="#333333">- 관계 질문</text>
+  <text x="380" y="810" font-family="Arial, sans-serif" font-size="28" fill="#333333">- 기타 해결중심 코칭 기법</text>
+  
+  <!-- 오른쪽 목차 항목 -->
+  <rect x="1000" y="220" width="60" height="60" rx="30" fill="#4285F4"/>
+  <text x="1030" y="260" font-family="Arial, sans-serif" font-size="30" font-weight="bold" fill="white" text-anchor="middle">5</text>
+  <text x="1090" y="260" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#0D47A1">해결중심 코치의 준비와 실천 원칙</text>
+  
+  <rect x="1000" y="320" width="60" height="60" rx="30" fill="#4285F4"/>
+  <text x="1030" y="360" font-family="Arial, sans-serif" font-size="30" font-weight="bold" fill="white" text-anchor="middle">6</text>
+  <text x="1090" y="360" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#0D47A1">적합한 고객 유형</text>
+  
+  <rect x="1000" y="420" width="60" height="60" rx="30" fill="#4285F4"/>
+  <text x="1030" y="460" font-family="Arial, sans-serif" font-size="30" font-weight="bold" fill="white" text-anchor="middle">7</text>
+  <text x="1090" y="460" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#0D47A1">셀프 해결중심 코칭 적용 가이드</text>
+  
+  <rect x="1000" y="520" width="60" height="60" rx="30" fill="#4285F4"/>
+  <text x="1030" y="560" font-family="Arial, sans-serif" font-size="30" font-weight="bold" fill="white" text-anchor="middle">8</text>
+  <text x="1090" y="560" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#0D47A1">추가 학습을 위한 자원</text>
+  
+  <rect x="1000" y="620" width="60" height="60" rx="30" fill="#4285F4"/>
+  <text x="1030" y="660" font-family="Arial, sans-serif" font-size="30" font-weight="bold" fill="white" text-anchor="middle">9</text>
+  <text x="1090" y="660" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#0D47A1">해결중심 접근법 빠른 참조 가이드</text>
+  
+  <rect x="1000" y="720" width="60" height="60" rx="30" fill="#4285F4"/>
+  <text x="1030" y="760" font-family="Arial, sans-serif" font-size="30" font-weight="bold" fill="white" text-anchor="middle">10</text>
+  <text x="1090" y="760" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#0D47A1">해결중심 코칭 실습 가이드</text>
+  
+  <!-- 페이지 번호 -->
+  <text x="1860" y="1060" font-family="Arial, sans-serif" font-size="28" fill="#666666" text-anchor="end">2</text>
+</svg>

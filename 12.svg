@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1920"
+   height="1080"
+   version="1.1"
+   id="svg40"
+   sodipodi:docname="12.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs40" />
+  <sodipodi:namedview
+     id="namedview40"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.5283659"
+     inkscape:cx="691.75547"
+     inkscape:cy="559.27152"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="1072"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg40" />
+  <!-- 배경 -->
+  <rect
+     width="1920"
+     height="1080"
+     fill="#F5F5F5"
+     id="rect1" />
+  <!-- 제목 영역 배경 -->
+  <rect
+     x="0"
+     y="0"
+     width="1920"
+     height="120"
+     fill="#4285F4"
+     id="rect2" />
+  <!-- 제목 텍스트 -->
+  <text
+     x="60"
+     y="80"
+     font-family="Arial, sans-serif"
+     font-size="48"
+     font-weight="bold"
+     fill="white"
+     id="text2">핵심 코칭 기법 - 대처 질문</text>
+  <!-- 메인 콘텐츠 영역 -->
+  <!-- 왼쪽 섹션 - 정의 및 설명 -->
+  <rect
+     x="60"
+     y="146.6171"
+     width="880"
+     height="253.3829"
+     rx="10"
+     fill="#e1f5fe"
+     id="rect3"
+     style="stroke-width:1.0275" />
+  <text
+     x="80"
+     y="194"
+     font-family="Arial, sans-serif"
+     font-size="32px"
+     font-weight="bold"
+     fill="#0d47a1"
+     id="text3">대처 질문 (Coping Questions)</text>
+  <text
+     x="80"
+     y="244"
+     font-family="Arial, sans-serif"
+     font-size="24px"
+     fill="#333333"
+     id="text4"
+     style="-inkscape-font-specification:'42dot Sans, Normal';font-family:'42dot Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:24px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="80"
+       y="244"
+       id="tspan3"
+       style="-inkscape-font-specification:'42dot Sans, Normal';font-family:'42dot Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:24px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">&quot;이렇게 어려운 상황에서도 어떻게 계속해서 나아가고 있나요? 무엇이</tspan><tspan
+       x="80"
+       y="279"
+       id="tspan4"
+       style="-inkscape-font-specification:'42dot Sans, Normal';font-family:'42dot Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:24px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">당신을 지탱해주고 있나요?&quot;</tspan></text>
+  <text
+     x="80"
+     y="320"
+     font-family="Arial, sans-serif"
+     font-size="22px"
+     fill="#333333"
+     id="text7"
+     style="-inkscape-font-specification:'42dot Sans, Normal';font-family:'42dot Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:24px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="80"
+       y="320"
+       id="tspan5"
+       style="-inkscape-font-specification:'42dot Sans, Normal';font-family:'42dot Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:24px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">대처 질문은 고객이 이미 어려운 상황에서 어떻게 견디고 대처하고 있는지에</tspan><tspan
+       x="80"
+       y="350"
+       id="tspan6"
+       style="-inkscape-font-specification:'42dot Sans, Normal';font-family:'42dot Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:24px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">초점을 맞춥니다. 이를 통해 고객의 내적 강점, 회복탄력성, 자원을 발견하고</tspan><tspan
+       x="80"
+       y="380"
+       id="tspan7"
+       style="-inkscape-font-specification:'42dot Sans, Normal';font-family:'42dot Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:24px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">강화할 수 있습니다.</tspan></text>
+  <!-- 오른쪽 섹션 - 다이어그램 -->
+  <rect
+     x="980"
+     y="145.27881"
+     width="880"
+     height="487.0632"
+     rx="10"
+     fill="#e8f5e9"
+     id="rect7"
+     style="stroke-width:1.13214" />
+  <rect
+     x="1032.7076"
+     y="257.19095"
+     width="769.83374"
+     height="352.02704"
+     rx="9.9978409"
+     fill="#ffffff"
+     stroke="#4a90e2"
+     stroke-width="2.16626"
+     id="rect24" />
+  <rect
+     x="1070.6245"
+     y="299.00372"
+     width="220"
+     height="274.94424"
+     rx="10"
+     fill="#e1f0ff"
+     id="rect25"
+     style="stroke-width:1.17248" />
+  <text
+     x="1182.6245"
+     y="355.10782"
+     font-family="Arial, sans-serif"
+     font-size="22px"
+     text-anchor="middle"
+     font-weight="bold"
+     fill="#2c3e50"
+     id="text25"
+     style="-inkscape-font-specification:'Arial, sans-serif, Bold';font-family:Arial, sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:24px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">과거 대처</text>
+  <text
+     x="1182.6245"
+     y="407.10782"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     text-anchor="middle"
+     fill="#34495e"
+     id="text26">이전에 비슷한</text>
+  <text
+     x="1182.6245"
+     y="437.10782"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     text-anchor="middle"
+     fill="#34495e"
+     id="text27">어려움을 어떻게</text>
+  <text
+     x="1182.6245"
+     y="467.10782"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     text-anchor="middle"
+     fill="#34495e"
+     id="text28">극복했는지 탐색</text>
+  <text
+     x="1182.6245"
+     y="515.10779"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     text-anchor="middle"
+     font-style="italic"
+     fill="#4a90e2"
+     id="text29"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">&quot;이전에는 어떻게</text>
+  <text
+     x="1182.6245"
+     y="545.10779"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     text-anchor="middle"
+     font-style="italic"
+     fill="#4a90e2"
+     id="text30"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">해결했나요?&quot;</text>
+  <rect
+     x="1307.6245"
+     y="299.00372"
+     width="220"
+     height="271.96289"
+     rx="10"
+     fill="#e1f0ff"
+     id="rect30"
+     style="stroke-width:1.1661" />
+  <text
+     x="1417.6245"
+     y="355.10782"
+     font-family="Arial, sans-serif"
+     font-size="22px"
+     text-anchor="middle"
+     font-weight="bold"
+     fill="#2c3e50"
+     id="text31"
+     style="-inkscape-font-specification:'Arial, sans-serif, Bold';font-family:Arial, sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:24px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">현재 대처</text>
+  <text
+     x="1417.6245"
+     y="407.10782"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     text-anchor="middle"
+     fill="#34495e"
+     id="text32-1">현재 사용하고 있는</text>
+  <text
+     x="1417.6245"
+     y="437.10782"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     text-anchor="middle"
+     fill="#34495e"
+     id="text33-7">효과적인 전략</text>
+  <text
+     x="1417.6245"
+     y="467.10782"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     text-anchor="middle"
+     fill="#34495e"
+     id="text34-1">확인하기</text>
+  <text
+     x="1417.6245"
+     y="515.10779"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     text-anchor="middle"
+     font-style="italic"
+     fill="#4a90e2"
+     id="text35-1"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">&quot;지금 어떻게 버티고</text>
+  <text
+     x="1417.6245"
+     y="545.10779"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     text-anchor="middle"
+     font-style="italic"
+     fill="#4a90e2"
+     id="text36-5"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">계신가요?&quot;</text>
+  <rect
+     x="1542.6245"
+     y="299.00372"
+     width="220"
+     height="271.96289"
+     rx="10"
+     fill="#e1f0ff"
+     id="rect36-2"
+     style="stroke-width:1.1661" />
+  <text
+     x="1652.6245"
+     y="355.10782"
+     font-family="Arial, sans-serif"
+     font-size="22px"
+     text-anchor="middle"
+     font-weight="bold"
+     fill="#2c3e50"
+     id="text37-7"
+     style="-inkscape-font-specification:'Arial, sans-serif, Bold';font-family:Arial, sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:24px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">미래 대처</text>
+  <text
+     x="1652.6245"
+     y="407.10782"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     text-anchor="middle"
+     fill="#34495e"
+     id="text38">앞으로 사용할 수</text>
+  <text
+     x="1652.6245"
+     y="437.10782"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     text-anchor="middle"
+     fill="#34495e"
+     id="text39-6">있는 전략과 방법</text>
+  <text
+     x="1652.6245"
+     y="467.10782"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     text-anchor="middle"
+     fill="#34495e"
+     id="text40-1">모색하기</text>
+  <text
+     x="1652.6245"
+     y="515.10779"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     text-anchor="middle"
+     font-style="italic"
+     fill="#4a90e2"
+     id="text41"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">&quot;앞으로 어떻게 대처할</text>
+  <text
+     x="1652.6245"
+     y="545.10779"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     text-anchor="middle"
+     font-style="italic"
+     fill="#4a90e2"
+     id="text42"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">계획인가요?&quot;</text>
+  <!-- 대처 질문 프로세스 다이어그램 -->
+  <!-- 다이어그램 텍스트 -->
+  <!-- 외부 원 텍스트 -->
+  <!-- 설명 텍스트 -->
+  <text
+     x="1012"
+     y="180"
+     font-family="Arial, sans-serif"
+     font-size="24"
+     font-weight="bold"
+     fill="#1B5E20"
+     id="text15"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1b5e20">대처 질문의 시간적 관점별 적용 방법</text>
+  <!-- 적용 방법 섹션 -->
+  <rect
+     x="60"
+     y="420"
+     width="880"
+     height="265.27881"
+     rx="10"
+     fill="#dcedc8"
+     id="rect15"
+     style="stroke-width:0.973357" />
+  <text
+     x="80"
+     y="460"
+     font-family="Arial, sans-serif"
+     font-size="28"
+     font-weight="bold"
+     fill="#33691E"
+     id="text16">적용 방법</text>
+  <text
+     x="80"
+     y="500"
+     font-family="Arial, sans-serif"
+     font-size="22"
+     fill="#333333"
+     id="text20"><tspan
+       x="100"
+       y="500"
+       id="tspan16">1. 고객이 직면한 어려움이나 도전을 인정합니다.</tspan><tspan
+       x="100"
+       y="540"
+       id="tspan17">2. 그 상황에서 어떻게 견디고 있는지 질문합니다.</tspan><tspan
+       x="100"
+       y="580"
+       id="tspan18">3. 고객의 내적 자원, 강점, 대처 메커니즘을 탐색합니다.</tspan><tspan
+       x="100"
+       y="620"
+       id="tspan19">4. 발견된 자원과 강점을 인정하고 강화합니다.</tspan><tspan
+       x="100"
+       y="660"
+       id="tspan20">5. 이러한 자원을 더 효과적으로 활용할 방법을 함께 모색합니다.</tspan></text>
+  <!-- 코칭 대화 예시 및 질문 카드 섹션 -->
+  <rect
+     x="60"
+     y="699.92566"
+     width="880"
+     height="320.07434"
+     rx="10"
+     fill="#fff9c4"
+     id="rect20"
+     style="stroke-width:1.03292" />
+  <text
+     x="80"
+     y="742"
+     font-family="Arial, sans-serif"
+     font-size="28px"
+     font-weight="bold"
+     fill="#f57f17"
+     id="text21">코칭 대화 예시</text>
+  <text
+     x="80"
+     y="782"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     fill="#333333"
+     id="text32"><tspan
+       x="80"
+       y="782"
+       font-weight="bold"
+       id="tspan21">코치:</tspan><tspan
+       id="tspan22">&quot;이런 불확실한 리더십 상황에서도 계속 팀을 이끌고 계신데, 어떻게 이 모든</tspan><tspan
+       x="120"
+       y="812"
+       id="tspan23">압박을 견디고 계신가요?&quot;</tspan><tspan
+       x="80"
+       y="847"
+       font-weight="bold"
+       id="tspan24">고객:</tspan><tspan
+       id="tspan25">&quot;솔직히 말하면 쉽지 않아요. 하지만 매일 아침 운동을 하면서 마음을 정리하고,</tspan><tspan
+       x="120"
+       y="877"
+       id="tspan26">하루의 우선순위를 명확히 세우려고 노력합니다.&quot;</tspan><tspan
+       x="80"
+       y="912"
+       font-weight="bold"
+       id="tspan27">코치:</tspan><tspan
+       id="tspan28">&quot;그런 자기 관리가 큰 도움이 되는군요. 또 다른 도움이 되는 대처 방법이</tspan><tspan
+       x="120"
+       y="942"
+       id="tspan29">있으신가요?&quot;</tspan><tspan
+       x="80"
+       y="977"
+       font-weight="bold"
+       id="tspan30">고객:</tspan><tspan
+       id="tspan31">&quot;가끔은 이전 팀장님께 조언을 구하기도 해요. 그분의 경험에서 배우는 것이</tspan><tspan
+       x="120"
+       y="1007"
+       id="tspan32">안정감을 줍니다.&quot;</tspan></text>
+  <!-- 질문 카드 섹션 -->
+  <rect
+     x="980"
+     y="651.00372"
+     width="880"
+     height="368.99628"
+     rx="10"
+     fill="#ffecb3"
+     id="rect32"
+     style="stroke-width:0.895637" />
+  <text
+     x="1000"
+     y="694"
+     font-family="Arial, sans-serif"
+     font-size="28px"
+     font-weight="bold"
+     fill="#ff6f00"
+     id="text33">즉시 사용 가능한 질문 카드</text>
+  <rect
+     x="1000"
+     y="714"
+     width="840"
+     height="50"
+     rx="5"
+     fill="#ffffff"
+     stroke="#ffb74d"
+     stroke-width="2"
+     id="rect33" />
+  <text
+     x="1020"
+     y="749"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     fill="#333333"
+     id="text34">&quot;이런 어려운 상황에서도 어떻게 계속 나아갈 수 있나요? 무엇이 당신에게 힘을 주나요?&quot;</text>
+  <rect
+     x="1000"
+     y="774"
+     width="840"
+     height="50"
+     rx="5"
+     fill="#ffffff"
+     stroke="#ffb74d"
+     stroke-width="2"
+     id="rect34" />
+  <text
+     x="1020"
+     y="809"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     fill="#333333"
+     id="text35">&quot;당신이 이 상황을 더 악화되지 않게 하기 위해 이미 하고 있는 것은 무엇인가요?&quot;</text>
+  <rect
+     x="1000"
+     y="834"
+     width="840"
+     height="50"
+     rx="5"
+     fill="#ffffff"
+     stroke="#ffb74d"
+     stroke-width="2"
+     id="rect35" />
+  <text
+     x="1020"
+     y="869"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     fill="#333333"
+     id="text36">&quot;가장 힘든 날에도 아침에 일어나게 하는 것은 무엇인가요?&quot;</text>
+  <rect
+     x="1000"
+     y="894"
+     width="840"
+     height="50"
+     rx="5"
+     fill="#ffffff"
+     stroke="#ffb74d"
+     stroke-width="2"
+     id="rect36" />
+  <text
+     x="1020"
+     y="929"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     fill="#333333"
+     id="text37">&quot;이런 압박감에도 불구하고 집중력을 유지하는 전략이 있나요?&quot;</text>
+  <rect
+     x="1000"
+     y="954"
+     width="840"
+     height="50"
+     rx="5"
+     fill="#ffffff"
+     stroke="#ffb74d"
+     stroke-width="2"
+     id="rect38" />
+  <text
+     x="1020"
+     y="989"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     fill="#333333"
+     id="text39">&quot;어려운 상황을 견디는 데 도움이 되는 개인적인 특성이나 강점은 무엇인가요?&quot;</text>
+  <!-- 페이지 번호 -->
+  <text
+     x="1860"
+     y="1060"
+     font-family="Arial, sans-serif"
+     font-size="28px"
+     fill="#666666"
+     text-anchor="end"
+     id="text40">11</text>
+</svg>

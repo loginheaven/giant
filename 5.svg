@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1920"
+   height="1080"
+   version="1.1"
+   id="svg28"
+   sodipodi:docname="slide5.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs28" />
+  <sodipodi:namedview
+     id="namedview28"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.5283659"
+     inkscape:cx="962.40124"
+     inkscape:cy="519.52634"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="1072"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg28" />
+  <!-- 배경 -->
+  <rect
+     width="1920"
+     height="1080"
+     fill="#F5F5F5"
+     id="rect1" />
+  <!-- 제목 영역 배경 -->
+  <rect
+     x="0"
+     y="0"
+     width="1920"
+     height="120"
+     fill="#4285F4"
+     id="rect2" />
+  <!-- 제목 텍스트 -->
+  <text
+     x="60"
+     y="80"
+     font-family="Arial, sans-serif"
+     font-size="48"
+     font-weight="bold"
+     fill="white"
+     id="text2">해결중심 코칭의 핵심 개념</text>
+  <!-- 개념 설명 영역 -->
+  <rect
+     x="60"
+     y="160"
+     width="918.73608"
+     height="860"
+     rx="10.208179"
+     fill="#e1f5fe"
+     id="rect3"
+     style="stroke-width:1.01036" />
+  <!-- 핵심 개념 1: 목표 지향성 -->
+  <rect
+     x="92.019348"
+     y="200.01935"
+     width="852.08026"
+     height="139.99306"
+     rx="5.1956115"
+     fill="#ffffff"
+     stroke="#0d47a1"
+     stroke-width="2"
+     id="rect4" />
+  <text
+     x="112"
+     y="240"
+     font-family="Arial, sans-serif"
+     font-size="28px"
+     font-weight="bold"
+     fill="#0d47a1"
+     id="text4">1. 목표 지향성(Goal Orientation)</text>
+  <text
+     x="112"
+     y="280"
+     font-family="Arial, sans-serif"
+     font-size="22px"
+     fill="#333333"
+     id="text5"><tspan
+       x="112"
+       y="280"
+       id="tspan4">고객이 원하는 미래 상태에 초점을 맞추며, &quot;문제가 해결되면 어떤 모습일까요?&quot;와</tspan><tspan
+       x="112"
+       y="310"
+       id="tspan5">같은 질문을 통해 고객이 자신의 목표를 명확히 할 수 있도록 돕습니다.</tspan></text>
+  <!-- 핵심 개념 2: 예외 탐색 -->
+  <rect
+     x="92.019348"
+     y="360.01141"
+     width="852.08026"
+     height="139.99306"
+     rx="5.1956115"
+     fill="#ffffff"
+     stroke="#0d47a1"
+     stroke-width="2"
+     id="rect5" />
+  <text
+     x="112"
+     y="400"
+     font-family="Arial, sans-serif"
+     font-size="28px"
+     font-weight="bold"
+     fill="#0d47a1"
+     id="text6">2. 예외 탐색(Exception Finding)</text>
+  <text
+     x="112"
+     y="440"
+     font-family="Arial, sans-serif"
+     font-size="22px"
+     fill="#333333"
+     id="text7"><tspan
+       x="112"
+       y="440"
+       id="tspan6">모든 문제에는 예외가 있다는 가정 하에, 문제가 덜 심각하거나 없는 순간에 주목하여</tspan><tspan
+       x="112"
+       y="470"
+       id="tspan7">이미 작동하는 해결책의 단서를 찾습니다.</tspan></text>
+  <!-- 핵심 개념 3: 자원 중심 -->
+  <rect
+     x="92.019348"
+     y="520.00348"
+     width="852.08026"
+     height="139.99306"
+     rx="5.1956115"
+     fill="#ffffff"
+     stroke="#0d47a1"
+     stroke-width="2"
+     id="rect7" />
+  <text
+     x="112"
+     y="560"
+     font-family="Arial, sans-serif"
+     font-size="28px"
+     font-weight="bold"
+     fill="#0d47a1"
+     id="text8">3. 자원 중심(Resource Focus)</text>
+  <text
+     x="112"
+     y="600"
+     font-family="Arial, sans-serif"
+     font-size="22px"
+     fill="#333333"
+     id="text9"><tspan
+       x="112"
+       y="600"
+       id="tspan8">고객이 이미 가지고 있는 강점, 자원, 성공 경험에 초점을 맞추어 자신감을 높이고</tspan><tspan
+       x="112"
+       y="630"
+       id="tspan9">해결책 구축의 기반을 마련합니다.</tspan></text>
+  <!-- 핵심 개념 4: 최소 개입의 원칙 -->
+  <rect
+     x="92.019348"
+     y="679.99554"
+     width="852.08026"
+     height="139.99306"
+     rx="5.1956115"
+     fill="#ffffff"
+     stroke="#0d47a1"
+     stroke-width="2"
+     id="rect9" />
+  <text
+     x="112"
+     y="720"
+     font-family="Arial, sans-serif"
+     font-size="28px"
+     font-weight="bold"
+     fill="#0d47a1"
+     id="text10">4. 최소 개입의 원칙(Principle of Minimal Intervention)</text>
+  <text
+     x="112"
+     y="760"
+     font-family="Arial, sans-serif"
+     font-size="22px"
+     fill="#333333"
+     id="text11"><tspan
+       x="112"
+       y="760"
+       id="tspan10">&quot;고장나지 않았다면 고치지 마라&quot;와 &quot;효과가 있는 것이 있다면 더 많이 하라&quot;는</tspan><tspan
+       x="112"
+       y="790"
+       id="tspan11">원칙을 따릅니다.</tspan></text>
+  <!-- 핵심 개념 5: 협력적 관계 -->
+  <rect
+     x="92.019348"
+     y="839.98761"
+     width="852.08026"
+     height="139.99306"
+     rx="5.1956115"
+     fill="#ffffff"
+     stroke="#0d47a1"
+     stroke-width="2"
+     id="rect11" />
+  <text
+     x="112"
+     y="880"
+     font-family="Arial, sans-serif"
+     font-size="28px"
+     font-weight="bold"
+     fill="#0d47a1"
+     id="text12">5. 협력적 관계(Collaborative Relationship)</text>
+  <text
+     x="112"
+     y="920"
+     font-family="Arial, sans-serif"
+     font-size="22px"
+     fill="#333333"
+     id="text13"><tspan
+       x="112"
+       y="920"
+       id="tspan12">코치와 고객은 동등한 협력 관계를 맺습니다. 코치는 '전문가' 역할이 아닌, '촉진자'</tspan><tspan
+       x="112"
+       y="950"
+       id="tspan13">로서의 역할을 합니다.</tspan></text>
+  <!-- 개념 다이어그램 영역 -->
+  <rect
+     x="1000"
+     y="160"
+     width="860"
+     height="860"
+     rx="10"
+     fill="#F1F8E9"
+     id="rect13" />
+  <!-- 개념 간 관계 다이어그램 -->
+  <circle
+     cx="1430"
+     cy="450"
+     r="300"
+     fill="#E8F5E9"
+     stroke="#33691E"
+     stroke-width="3"
+     id="circle13" />
+  <!-- 중앙 원: 협력적 관계 -->
+  <circle
+     cx="1430"
+     cy="450"
+     r="100"
+     fill="#81C784"
+     stroke="#33691E"
+     stroke-width="2"
+     id="circle14" />
+  <text
+     x="1430"
+     y="445"
+     font-family="Arial, sans-serif"
+     font-size="22"
+     font-weight="bold"
+     fill="#1B5E20"
+     text-anchor="middle"
+     id="text14">협력적</text>
+  <text
+     x="1430"
+     y="475"
+     font-family="Arial, sans-serif"
+     font-size="22"
+     font-weight="bold"
+     fill="#1B5E20"
+     text-anchor="middle"
+     id="text15">관계</text>
+  <!-- 위 원: 목표 지향성 -->
+  <circle
+     cx="1430"
+     cy="240"
+     r="80"
+     fill="#A5D6A7"
+     stroke="#33691E"
+     stroke-width="2"
+     id="circle15" />
+  <text
+     x="1430"
+     y="235"
+     font-family="Arial, sans-serif"
+     font-size="20"
+     font-weight="bold"
+     fill="#1B5E20"
+     text-anchor="middle"
+     id="text16">목표</text>
+  <text
+     x="1430"
+     y="265"
+     font-family="Arial, sans-serif"
+     font-size="20"
+     font-weight="bold"
+     fill="#1B5E20"
+     text-anchor="middle"
+     id="text17">지향성</text>
+  <!-- 오른쪽 원: 자원 중심 -->
+  <circle
+     cx="1640"
+     cy="450"
+     r="80"
+     fill="#A5D6A7"
+     stroke="#33691E"
+     stroke-width="2"
+     id="circle17" />
+  <text
+     x="1640"
+     y="445"
+     font-family="Arial, sans-serif"
+     font-size="20"
+     font-weight="bold"
+     fill="#1B5E20"
+     text-anchor="middle"
+     id="text18">자원</text>
+  <text
+     x="1640"
+     y="475"
+     font-family="Arial, sans-serif"
+     font-size="20"
+     font-weight="bold"
+     fill="#1B5E20"
+     text-anchor="middle"
+     id="text19">중심</text>
+  <!-- 아래 원: 최소 개입 원칙 -->
+  <circle
+     cx="1430"
+     cy="660"
+     r="80"
+     fill="#A5D6A7"
+     stroke="#33691E"
+     stroke-width="2"
+     id="circle19" />
+  <text
+     x="1430"
+     y="655"
+     font-family="Arial, sans-serif"
+     font-size="20"
+     font-weight="bold"
+     fill="#1B5E20"
+     text-anchor="middle"
+     id="text20">최소 개입</text>
+  <text
+     x="1430"
+     y="685"
+     font-family="Arial, sans-serif"
+     font-size="20"
+     font-weight="bold"
+     fill="#1B5E20"
+     text-anchor="middle"
+     id="text21">원칙</text>
+  <!-- 왼쪽 원: 예외 탐색 -->
+  <circle
+     cx="1220"
+     cy="450"
+     r="80"
+     fill="#A5D6A7"
+     stroke="#33691E"
+     stroke-width="2"
+     id="circle21" />
+  <text
+     x="1220"
+     y="445"
+     font-family="Arial, sans-serif"
+     font-size="20"
+     font-weight="bold"
+     fill="#1B5E20"
+     text-anchor="middle"
+     id="text22">예외</text>
+  <text
+     x="1220"
+     y="475"
+     font-family="Arial, sans-serif"
+     font-size="20"
+     font-weight="bold"
+     fill="#1B5E20"
+     text-anchor="middle"
+     id="text23">탐색</text>
+  <!-- 코칭 역량 연결 설명 -->
+  <rect
+     x="1050"
+     y="780"
+     width="760"
+     height="200"
+     rx="5"
+     fill="white"
+     stroke="#33691E"
+     stroke-width="2"
+     id="rect23" />
+  <text
+     x="1070"
+     y="820"
+     font-family="Arial, sans-serif"
+     font-size="24"
+     font-weight="bold"
+     fill="#33691E"
+     id="text24">KCA 및 ICF 코칭 역량과의 연결성</text>
+  <text
+     x="1070"
+     y="860"
+     font-family="Arial, sans-serif"
+     font-size="20"
+     fill="#333333"
+     id="text27"><tspan
+       x="1070"
+       y="860"
+       id="tspan24">• KCA: 의식 확장, 자기 관리, 관계 구축, 성장 지원</tspan><tspan
+       x="1070"
+       y="890"
+       id="tspan25">• ICF: 알아차림 불러일으키기, 코칭 마인드셋 구현, 신뢰와</tspan><tspan
+       x="1070"
+       y="920"
+       id="tspan26">  안전감 조성, 관계의 공동구축, 고객 성장 촉진</tspan><tspan
+       x="1070"
+       y="950"
+       id="tspan27">• 해결중심 접근법은 코칭의 본질적 가치와 원칙 실현에 기여</tspan></text>
+  <!-- 페이지 번호 -->
+  <text
+     x="1860"
+     y="1060"
+     font-family="Arial, sans-serif"
+     font-size="28"
+     fill="#666666"
+     text-anchor="end"
+     id="text28">5</text>
+</svg>

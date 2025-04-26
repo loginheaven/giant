@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1920"
+   height="1080"
+   version="1.1"
+   id="svg42"
+   sodipodi:docname="8.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs42" />
+  <sodipodi:namedview
+     id="namedview42"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.628125"
+     inkscape:cx="1277.6119"
+     inkscape:cy="698.10945"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="1072"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg42" />
+  <!-- 배경 -->
+  <rect
+     width="1920"
+     height="1080"
+     fill="#F5F5F5"
+     id="rect1" />
+  <!-- 제목 영역 배경 -->
+  <rect
+     x="0"
+     y="0"
+     width="1920"
+     height="120"
+     fill="#4285F4"
+     id="rect2" />
+  <!-- 제목 텍스트 -->
+  <text
+     x="60"
+     y="80"
+     font-family="Arial, sans-serif"
+     font-size="48px"
+     font-weight="bold"
+     fill="#ffffff"
+     id="text2">핵심 코칭 기법 - 예외 탐색</text>
+  <!-- 왼쪽 섹션 - 정의 및 설명 -->
+  <rect
+     x="60"
+     y="160"
+     width="907.0647"
+     height="251.14429"
+     rx="10.307553"
+     fill="#e1f5fe"
+     id="rect3"
+     style="stroke-width:1.03856" />
+  <text
+     x="80"
+     y="200"
+     font-family="Arial, sans-serif"
+     font-size="32"
+     font-weight="bold"
+     fill="#0D47A1"
+     id="text3">예외 탐색 (Exception Finding)</text>
+  <text
+     x="80"
+     y="250"
+     font-family="Arial, sans-serif"
+     font-size="24"
+     fill="#333333"
+     id="text4"><tspan
+       x="80"
+       y="250"
+       id="tspan3">&quot;이 문제가 없거나 덜 심각했던 때가 있었나요? 그때는 무엇이 달랐나요?</tspan><tspan
+       x="80"
+       y="285"
+       id="tspan4">무엇이 도움이 되었나요?&quot;</tspan></text>
+  <text
+     x="80"
+     y="340"
+     font-family="Arial, sans-serif"
+     font-size="22"
+     fill="#333333"
+     id="text7"><tspan
+       x="80"
+       y="340"
+       id="tspan5">예외 탐색은 모든 문제에는 예외가 있다는 믿음에 기반합니다. 문제가 항상 같은</tspan><tspan
+       x="80"
+       y="370"
+       id="tspan6">강도로 존재하지 않으며, 상대적으로 덜 심각하거나 없었던 시간이 있습니다.</tspan><tspan
+       x="80"
+       y="400"
+       id="tspan7">이 예외적 상황을 탐색함으로써 이미 작동하고 있는 해결책의 단서를 발견할 수 있습니다.</tspan></text>
+  <!-- 오른쪽 섹션 - 다이어그램 -->
+  <rect
+     x="980"
+     y="160"
+     width="880"
+     height="448.4577"
+     rx="10"
+     fill="#e8f5e9"
+     id="rect7"
+     style="stroke-width:1.08635" />
+  <!-- 예외 탐색 프로세스 다이어그램 -->
+  <text
+     x="1000"
+     y="200"
+     font-family="Arial, sans-serif"
+     font-size="28"
+     font-weight="bold"
+     fill="#33691E"
+     id="text8">예외 탐색 프로세스</text>
+  <!-- 문제 탐색에서 예외 탐색으로의 전환 그림 -->
+  <!-- 예외 탐색 단계 -->
+  <!-- 중간 영역 - 적용 방법 -->
+  <rect
+     x="60"
+     y="420"
+     width="902.28857"
+     height="272.03979"
+     rx="10.253279"
+     fill="#dcedc8"
+     id="rect15"
+     style="stroke-width:0.998088" />
+  <text
+     x="80"
+     y="460"
+     font-family="Arial, sans-serif"
+     font-size="28"
+     font-weight="bold"
+     fill="#33691E"
+     id="text16">적용 방법</text>
+  <text
+     x="100"
+     y="500"
+     font-family="Arial, sans-serif"
+     font-size="22"
+     fill="#333333"
+     id="text21"><tspan
+       x="100"
+       y="500"
+       id="tspan16">1. 고객의 문제가 덜 심각하거나 없었던 때를 찾도록 돕습니다.</tspan><tspan
+       x="100"
+       y="535"
+       id="tspan17">2. 그 예외적 상황에서 무엇이 달랐는지 구체적으로 탐색합니다:</tspan><tspan
+       x="120"
+       y="570"
+       id="tspan18">• 고객이 무엇을 다르게 했는지</tspan><tspan
+       x="120"
+       y="605"
+       id="tspan19">• 다른 사람들이 어떻게 다르게 반응했는지</tspan><tspan
+       x="120"
+       y="640"
+       id="tspan20">• 상황이 어떻게 달랐는지</tspan><tspan
+       x="100"
+       y="675"
+       id="tspan21">3. 고객이 이미 가지고 있는 자원과 성공 전략을 확인합니다.</tspan></text>
+  <!-- 예외 탐색의 이점 - 우측 중간 -->
+  <rect
+     x="980"
+     y="618.65674"
+     width="880"
+     height="151.34328"
+     rx="10"
+     fill="#fff8e1"
+     id="rect21"
+     style="stroke-width:0.916949" />
+  <text
+     x="1000"
+     y="656"
+     font-family="Arial, sans-serif"
+     font-size="28px"
+     font-weight="bold"
+     fill="#f57f17"
+     id="text22">예외 탐색의 이점</text>
+  <text
+     x="1000"
+     y="688"
+     font-family="Arial, sans-serif"
+     font-size="22px"
+     fill="#333333"
+     id="text24"><tspan
+       x="1000"
+       y="688"
+       id="tspan22">• 고객이 이미 가진 강점과 자원에 대한 인식을 높입니다.</tspan><tspan
+       x="1000"
+       y="723"
+       id="tspan23">• 문제가 절대적이거나 불변하는 것이 아님을 보여줍니다.</tspan><tspan
+       x="1000"
+       y="758"
+       id="tspan24">• 해결책이 이미 존재하며, 그것을 확장하면 된다는 희망을 제공합니다.</tspan></text>
+  <!-- 코칭 대화 예시 및 질문 카드 섹션 -->
+  <rect
+     x="60"
+     y="707.26367"
+     width="899.10449"
+     height="325.47266"
+     rx="10.217096"
+     fill="#fff9c4"
+     id="rect24"
+     style="stroke-width:1.05283" />
+  <text
+     x="80"
+     y="746"
+     font-family="Arial, sans-serif"
+     font-size="28px"
+     font-weight="bold"
+     fill="#f57f17"
+     id="text25">코칭 대화 예시</text>
+  <text
+     x="80"
+     y="786"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     fill="#333333"
+     id="text36"><tspan
+       x="80"
+       y="786"
+       font-weight="bold"
+       id="tspan25">코치:</tspan><tspan
+       id="tspan26">&quot;팀을 이끄는 데 자신감을 느꼈던 순간이 혹시 있었나요, 아주 짧은 순간이라도요?&quot;</tspan><tspan
+       x="80"
+       y="826"
+       font-weight="bold"
+       id="tspan27">고객:</tspan><tspan
+       id="tspan28">&quot;지난 달 프로젝트 위기 상황에서 제가 빠르게 대안을 제시했을 때, 팀원들이 안도하는</tspan><tspan
+       x="80"
+       y="856"
+       id="tspan29">모습을 봤어요. 그때는 꽤 자신감이 있었던 것 같아요.&quot;</tspan><tspan
+       x="80"
+       y="896"
+       font-weight="bold"
+       id="tspan30">코치:</tspan><tspan
+       id="tspan31">&quot;그 순간에 당신은 무엇을 다르게 하셨나요?&quot;</tspan><tspan
+       x="80"
+       y="936"
+       font-weight="bold"
+       id="tspan32">고객:</tspan><tspan
+       id="tspan33">&quot;음... 제가 아는 기술적 지식에 집중했고, 결과에 대한 걱정보다 해결책 자체에</tspan><tspan
+       x="80"
+       y="966"
+       id="tspan34">몰입했던 것 같아요.&quot;</tspan><tspan
+       x="80"
+       y="1006"
+       font-weight="bold"
+       id="tspan35">코치:</tspan><tspan
+       id="tspan36">&quot;그 접근 방식에서 배울 수 있는 것이 있을까요?&quot;</tspan></text>
+  <!-- 질문 카드 섹션 -->
+  <rect
+     x="980"
+     y="777.51245"
+     width="880"
+     height="250.44777"
+     rx="10"
+     fill="#ffecb3"
+     id="rect36"
+     style="stroke-width:0.981456" />
+  <text
+     x="1000"
+     y="814"
+     font-family="Arial, sans-serif"
+     font-size="28px"
+     font-weight="bold"
+     fill="#ff6f00"
+     id="text37">즉시 사용 가능한 질문 카드</text>
+  <rect
+     x="1000"
+     y="830"
+     width="840"
+     height="40"
+     rx="5"
+     fill="white"
+     stroke="#FFB74D"
+     stroke-width="2"
+     id="rect37" />
+  <text
+     x="1020"
+     y="860"
+     font-family="Arial, sans-serif"
+     font-size="18"
+     fill="#333333"
+     id="text38">&quot;최근에 이 문제가 덜 심각했던 때는 언제인가요? 그때 어떤 일이 일어났나요?&quot;</text>
+  <rect
+     x="1000"
+     y="880"
+     width="840"
+     height="40"
+     rx="5"
+     fill="white"
+     stroke="#FFB74D"
+     stroke-width="2"
+     id="rect38" />
+  <text
+     x="1020"
+     y="910"
+     font-family="Arial, sans-serif"
+     font-size="18"
+     fill="#333333"
+     id="text39">&quot;최근 한달을 돌아볼 때, 상황이 조금이라도 더 나았던 순간이 있었나요?&quot;</text>
+  <rect
+     x="1000"
+     y="930"
+     width="840"
+     height="40"
+     rx="5"
+     fill="white"
+     stroke="#FFB74D"
+     stroke-width="2"
+     id="rect39" />
+  <text
+     x="1020"
+     y="960"
+     font-family="Arial, sans-serif"
+     font-size="18"
+     fill="#333333"
+     id="text40">&quot;이전에 비슷한 도전을 어떻게 극복했나요? 그때 어떤 전략이 효과적이었나요?&quot;</text>
+  <rect
+     x="1000"
+     y="980"
+     width="840"
+     height="40"
+     rx="5"
+     fill="white"
+     stroke="#FFB74D"
+     stroke-width="2"
+     id="rect40" />
+  <text
+     x="1020"
+     y="1010"
+     font-family="Arial, sans-serif"
+     font-size="18"
+     fill="#333333"
+     id="text41">&quot;이 문제를 다루는 데 이미 도움이 되고 있는 것은 무엇인가요?&quot;</text>
+  <!-- 페이지 번호 -->
+  <text
+     x="1860"
+     y="1060"
+     font-family="Arial, sans-serif"
+     font-size="28"
+     fill="#666666"
+     text-anchor="end"
+     id="text42">8</text>
+  <circle
+     cx="1061"
+     cy="250"
+     r="30"
+     fill="#4a90e2"
+     id="circle21" />
+  <text
+     x="1061"
+     y="258"
+     font-family="Arial, sans-serif"
+     font-size="22px"
+     font-weight="bold"
+     fill="#ffffff"
+     text-anchor="middle"
+     id="text21-0">1</text>
+  <text
+     x="1116"
+     y="248"
+     font-family="Arial, sans-serif"
+     font-size="22px"
+     font-weight="bold"
+     fill="#2c3e50"
+     id="text22-9"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">예외 발견하기</text>
+  <text
+     x="1116"
+     y="278"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#34495e"
+     id="text23"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">&quot;문제가 없었거나 덜 심각했던 순간이 있었나요?&quot;</text>
+  <line
+     x1="1061"
+     y1="282"
+     x2="1061"
+     y2="317"
+     stroke="#4a90e2"
+     stroke-width="3"
+     id="line23" />
+  <polygon
+     points="1055,405 1065,405 1060,415 "
+     fill="#4a90e2"
+     id="polygon23"
+     transform="translate(1,-98)" />
+  <circle
+     cx="1061"
+     cy="349"
+     r="30"
+     fill="#4a90e2"
+     id="circle23" />
+  <text
+     x="1061"
+     y="357"
+     font-family="Arial, sans-serif"
+     font-size="22px"
+     font-weight="bold"
+     fill="#ffffff"
+     text-anchor="middle"
+     id="text24-4">2</text>
+  <text
+     x="1116"
+     y="347"
+     font-family="Arial, sans-serif"
+     font-size="22px"
+     font-weight="bold"
+     fill="#2c3e50"
+     id="text25-8"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">예외 상황 상세 탐색하기</text>
+  <text
+     x="1116"
+     y="377"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#34495e"
+     id="text26"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">&quot;그때 정확히 무슨 일이 있었나요? 무엇이 달랐나요?&quot;</text>
+  <line
+     x1="1061"
+     y1="383"
+     x2="1061"
+     y2="418"
+     stroke="#4a90e2"
+     stroke-width="3"
+     id="line26" />
+  <polygon
+     points="1065,520 1060,530 1055,520 "
+     fill="#4a90e2"
+     id="polygon26"
+     transform="translate(1,-112)" />
+  <circle
+     cx="1061"
+     cy="452"
+     r="30"
+     fill="#4a90e2"
+     id="circle26" />
+  <text
+     x="1061"
+     y="460"
+     font-family="Arial, sans-serif"
+     font-size="22px"
+     font-weight="bold"
+     fill="#ffffff"
+     text-anchor="middle"
+     id="text27">3</text>
+  <text
+     x="1116"
+     y="450"
+     font-family="Arial, sans-serif"
+     font-size="22px"
+     font-weight="bold"
+     fill="#2c3e50"
+     id="text28"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">예외에서 해결책 요소 찾기</text>
+  <text
+     x="1116"
+     y="480"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#34495e"
+     id="text29"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">&quot;그때 무엇이 도움이 되었나요? 어떤 전략이 효과가 있었나요?&quot;</text>
+  <line
+     x1="1061"
+     y1="492"
+     x2="1061"
+     y2="527"
+     stroke="#4a90e2"
+     stroke-width="3"
+     id="line29" />
+  <polygon
+     points="1065,635 1060,645 1055,635 "
+     fill="#4a90e2"
+     id="polygon29"
+     transform="translate(1,-118)" />
+  <circle
+     cx="1061"
+     cy="563"
+     r="30"
+     fill="#50e3c2"
+     id="circle29" />
+  <text
+     x="1061"
+     y="571"
+     font-family="Arial, sans-serif"
+     font-size="22px"
+     font-weight="bold"
+     fill="#ffffff"
+     text-anchor="middle"
+     id="text30">4</text>
+  <text
+     x="1116"
+     y="557"
+     font-family="Arial, sans-serif"
+     font-size="22px"
+     font-weight="bold"
+     fill="#2c3e50"
+     id="text31"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">미래 적용 계획하기</text>
+  <text
+     x="1116"
+     y="587"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#34495e"
+     id="text32"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">&quot;앞으로 이 방법을 어떻게 더 활용할 수 있을까요?&quot;</text>
+</svg>

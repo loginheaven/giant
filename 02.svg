@@ -1,0 +1,959 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1920"
+   height="1080"
+   version="1.1"
+   id="svg87"
+   sodipodi:docname="coaching-masters-slide.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs87" />
+  <sodipodi:namedview
+     id="namedview87"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.6702783"
+     inkscape:cx="828.76023"
+     inkscape:cy="549.02568"
+     inkscape:window-width="1101"
+     inkscape:window-height="844"
+     inkscape:window-x="1939"
+     inkscape:window-y="207"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg87" />
+  <!-- 배경 -->
+  <rect
+     width="1920"
+     height="1080"
+     fill="#F5F5F5"
+     id="rect1" />
+  <!-- 제목 영역 배경 -->
+  <rect
+     x="0"
+     y="0"
+     width="1920"
+     height="120"
+     fill="#4285F4"
+     id="rect2" />
+  <!-- 제목 텍스트 -->
+  <text
+     x="60"
+     y="80"
+     font-family="Arial, sans-serif"
+     font-size="48px"
+     font-weight="bold"
+     fill="#ffffff"
+     id="text2">코칭이론의 거인들: 33 Masters</text>
+  <!-- 소제목 -->
+  <text
+     x="960"
+     y="150"
+     font-family="Arial, sans-serif"
+     font-size="24px"
+     font-weight="bold"
+     fill="#1a237e"
+     text-anchor="middle"
+     id="text3">거인의 어깨위에서: 코칭 철학과 이론의 33명의 대가들</text>
+  <!-- 1. 인간중심 및 의미/실존 코칭 섹션 -->
+  <rect
+     x="50"
+     y="180"
+     width="350"
+     height="820"
+     rx="10"
+     fill="#E1F5FE"
+     id="rect3" />
+  <rect
+     x="60"
+     y="200"
+     width="330"
+     height="113.70903"
+     rx="5"
+     fill="#bbdefb"
+     id="rect4"
+     style="stroke-width:1.37664" />
+  <text
+     x="75"
+     y="237"
+     font-family="Arial, sans-serif"
+     font-size="18"
+     font-weight="bold"
+     fill="#1565c0"
+     id="text4"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">인간중심 및 의미/실존 코칭</text>
+  <text
+     x="75"
+     y="255"
+     font-family="Arial, sans-serif"
+     font-size="14px"
+     fill="#1565c0"
+     font-style="italic"
+     id="text5"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:295.334;display:inline"
+     transform="translate(0,12)"
+     xml:space="preserve"><tspan
+       x="75"
+       y="255"
+       id="tspan1">인간 존재와 의미 발견, 자아 실현 및 </tspan><tspan
+       x="75"
+       y="277.04139"
+       id="tspan2">내적 성장</tspan></text>
+  <!-- 인간중심 코치 목록 -->
+  <rect
+     x="60"
+     y="329.6767"
+     width="330"
+     height="660.3233"
+     rx="5"
+     fill="#e3f2fd"
+     id="rect5"
+     style="stroke-width:0.957662" />
+  <text
+     x="75"
+     y="364"
+     font-family="Arial, sans-serif"
+     font-size="16"
+     font-weight="bold"
+     fill="#1565c0"
+     id="text6"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">칼 로저스</text>
+  <text
+     x="75"
+     y="384"
+     font-family="Arial, sans-serif"
+     font-size="14"
+     fill="#333333"
+     id="text7"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">인간중심 접근법 (자기실현 촉진)</text>
+  <text
+     x="75"
+     y="418"
+     font-family="Arial, sans-serif"
+     font-size="16"
+     font-weight="bold"
+     fill="#1565c0"
+     id="text8"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">빅터 프랭클</text>
+  <text
+     x="75"
+     y="438"
+     font-family="Arial, sans-serif"
+     font-size="14"
+     fill="#333333"
+     id="text9"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">의미중심 치료 (삶의 의미 추구)</text>
+  <text
+     x="75"
+     y="472"
+     font-family="Arial, sans-serif"
+     font-size="16"
+     font-weight="bold"
+     fill="#1565c0"
+     id="text10"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">프리츠 펄스</text>
+  <text
+     x="75"
+     y="492"
+     font-family="Arial, sans-serif"
+     font-size="14"
+     fill="#333333"
+     id="text11"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">게슈탈트 접근법 ('지금 여기' 집중)</text>
+  <text
+     x="75"
+     y="526"
+     font-family="Arial, sans-serif"
+     font-size="16"
+     font-weight="bold"
+     fill="#1565c0"
+     id="text12"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">브레네 브라운</text>
+  <text
+     x="75"
+     y="546"
+     font-family="Arial, sans-serif"
+     font-size="14"
+     fill="#333333"
+     id="text13"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">취약성과 용기 (자기수용 강조)</text>
+  <text
+     x="75"
+     y="580"
+     font-family="Arial, sans-serif"
+     font-size="16"
+     font-weight="bold"
+     fill="#1565c0"
+     id="text14"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">게리 콜린스</text>
+  <text
+     x="75"
+     y="600"
+     font-family="Arial, sans-serif"
+     font-size="14"
+     fill="#333333"
+     id="text15"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">크리스천 코칭 (영적 차원 접목)</text>
+  <text
+     x="75"
+     y="634"
+     font-family="Arial, sans-serif"
+     font-size="16"
+     font-weight="bold"
+     fill="#1565c0"
+     id="text16"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">로버트 키건</text>
+  <text
+     x="75"
+     y="654"
+     font-family="Arial, sans-serif"
+     font-size="14"
+     fill="#333333"
+     id="text17"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">발달 단계 이론 (의식 발달 설명)</text>
+  <text
+     x="75"
+     y="688"
+     font-family="Arial, sans-serif"
+     font-size="16"
+     font-weight="bold"
+     fill="#1565c0"
+     id="text18"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">에릭 번</text>
+  <text
+     x="75"
+     y="708"
+     font-family="Arial, sans-serif"
+     font-size="14"
+     fill="#333333"
+     id="text19"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">거래분석 (교류 분석을 통한 관계 개선)</text>
+  <text
+     x="75"
+     y="742"
+     font-family="Arial, sans-serif"
+     font-size="16"
+     font-weight="bold"
+     fill="#1565c0"
+     id="text20"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">버지니아 사티어</text>
+  <text
+     x="75"
+     y="762"
+     font-family="Arial, sans-serif"
+     font-size="14"
+     fill="#333333"
+     id="text21"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">의사소통 패턴과 일치적 소통</text>
+  <!-- 2. 인지행동 및 신경과학 기반 코칭 섹션 -->
+  <rect
+     x="420"
+     y="180"
+     width="350"
+     height="820"
+     rx="10"
+     fill="#DCEDC8"
+     id="rect21" />
+  <rect
+     x="430"
+     y="200"
+     width="330"
+     height="113.70903"
+     rx="5"
+     fill="#c5e1a5"
+     id="rect22"
+     style="stroke-width:1.37664" />
+  <text
+     x="445"
+     y="237"
+     font-family="Arial, sans-serif"
+     font-size="18"
+     font-weight="bold"
+     fill="#33691e"
+     id="text22"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">인지행동 및 신경과학 기반 코칭</text>
+  <text
+     x="445"
+     y="255"
+     font-family="Arial, sans-serif"
+     font-size="14px"
+     fill="#33691e"
+     font-style="italic"
+     id="text23"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:279.744;display:inline"
+     transform="translate(0,12)"
+     xml:space="preserve"><tspan
+       x="445"
+       y="255"
+       id="tspan3">인지 변화, 사고 전환 및 뇌 기반의 </tspan><tspan
+       x="445"
+       y="277.04139"
+       id="tspan4">신경학적 접근</tspan></text>
+  <!-- 인지행동 코치 목록 -->
+  <rect
+     x="430"
+     y="329.6767"
+     width="330"
+     height="660.3233"
+     rx="5"
+     fill="#f1f8e9"
+     id="rect23"
+     style="stroke-width:0.957662" />
+  <text
+     x="445"
+     y="364"
+     font-family="Arial, sans-serif"
+     font-size="16"
+     font-weight="bold"
+     fill="#33691e"
+     id="text24"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">앨버트 엘리스</text>
+  <text
+     x="445"
+     y="384"
+     font-family="Arial, sans-serif"
+     font-size="14"
+     fill="#333333"
+     id="text25"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">합리정서행동 접근법 (비합리적 신념)</text>
+  <text
+     x="445"
+     y="418"
+     font-family="Arial, sans-serif"
+     font-size="16"
+     font-weight="bold"
+     fill="#33691e"
+     id="text26"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">스티븐 헤이즈</text>
+  <text
+     x="445"
+     y="438"
+     font-family="Arial, sans-serif"
+     font-size="14"
+     fill="#333333"
+     id="text27"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">수용전념 접근법 (심리적 유연성 증진)</text>
+  <text
+     x="445"
+     y="472"
+     font-family="Arial, sans-serif"
+     font-size="16"
+     font-weight="bold"
+     fill="#33691e"
+     id="text28"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">리처드 밴들러</text>
+  <text
+     x="445"
+     y="492"
+     font-family="Arial, sans-serif"
+     font-size="14"
+     fill="#333333"
+     id="text29"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">NLP (주관적 경험 분석)</text>
+  <text
+     x="445"
+     y="526"
+     font-family="Arial, sans-serif"
+     font-size="16"
+     font-weight="bold"
+     fill="#33691e"
+     id="text30"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">데이비드 록</text>
+  <text
+     x="445"
+     y="546"
+     font-family="Arial, sans-serif"
+     font-size="14"
+     fill="#333333"
+     id="text31"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">뇌과학 기반 코칭 (뇌 친화적 접근)</text>
+  <text
+     x="445"
+     y="580"
+     font-family="Arial, sans-serif"
+     font-size="16"
+     font-weight="bold"
+     fill="#33691e"
+     id="text32"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">로버트 딜츠</text>
+  <text
+     x="445"
+     y="600"
+     font-family="Arial, sans-serif"
+     font-size="14"
+     fill="#333333"
+     id="text33"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">뉴로로직 레벨 (경험 구조 체계화)</text>
+  <text
+     x="445"
+     y="634"
+     font-family="Arial, sans-serif"
+     font-size="16"
+     font-weight="bold"
+     fill="#33691e"
+     id="text34"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">수잔 데이비드</text>
+  <text
+     x="445"
+     y="654"
+     font-family="Arial, sans-serif"
+     font-size="14"
+     fill="#333333"
+     id="text35"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">감정 코칭 (감정적 민첩성 증진)</text>
+  <text
+     x="445"
+     y="688"
+     font-family="Arial, sans-serif"
+     font-size="16"
+     font-weight="bold"
+     fill="#33691e"
+     id="text36"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">밀튼 에릭슨</text>
+  <text
+     x="445"
+     y="708"
+     font-family="Arial, sans-serif"
+     font-size="14"
+     fill="#333333"
+     id="text37"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">최면요법 및 간접적 제안 (무의식 자원)</text>
+  <!-- 3. 목표 및 해결중심 코칭 섹션 -->
+  <rect
+     x="790"
+     y="180"
+     width="350"
+     height="820"
+     rx="10"
+     fill="#FFF3E0"
+     id="rect37" />
+  <rect
+     x="800"
+     y="200"
+     width="330"
+     height="113.70903"
+     rx="5"
+     fill="#ffe0b2"
+     id="rect38"
+     style="stroke-width:1.37664" />
+  <text
+     x="815"
+     y="237"
+     font-family="Arial, sans-serif"
+     font-size="18"
+     font-weight="bold"
+     fill="#e65100"
+     id="text38"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">목표 및 해결중심 코칭</text>
+  <text
+     x="815"
+     y="255"
+     font-family="Arial, sans-serif"
+     font-size="14px"
+     fill="#e65100"
+     font-style="italic"
+     id="text39"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:283.273;display:inline"
+     transform="translate(0,12)"
+     xml:space="preserve"><tspan
+       x="815"
+       y="255"
+       id="tspan5">구체적 목표 설정, 행동 계획 수립 및 </tspan><tspan
+       x="815"
+       y="277.04139"
+       id="tspan6">문제해결</tspan></text>
+  <!-- 목표 및 해결중심 코치 목록 -->
+  <rect
+     x="800"
+     y="329.6767"
+     width="330"
+     height="660.3233"
+     rx="5"
+     fill="#fff8e1"
+     id="rect39"
+     style="stroke-width:0.957662" />
+  <text
+     x="815"
+     y="364"
+     font-family="Arial, sans-serif"
+     font-size="16"
+     font-weight="bold"
+     fill="#e65100"
+     id="text40"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">존 휘트모어</text>
+  <text
+     x="815"
+     y="384"
+     font-family="Arial, sans-serif"
+     font-size="14"
+     fill="#333333"
+     id="text41"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">GROW 모델 (코칭 체계화)</text>
+  <text
+     x="815"
+     y="418"
+     font-family="Arial, sans-serif"
+     font-size="16"
+     font-weight="bold"
+     fill="#e65100"
+     id="text42"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">티모시 갤웨이</text>
+  <text
+     x="815"
+     y="438"
+     font-family="Arial, sans-serif"
+     font-size="14"
+     fill="#333333"
+     id="text43"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">이너게임 (내적 장애물 극복)</text>
+  <text
+     x="815"
+     y="472"
+     font-family="Arial, sans-serif"
+     font-size="16"
+     font-weight="bold"
+     fill="#e65100"
+     id="text44"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">윌리엄 글라서</text>
+  <text
+     x="815"
+     y="492"
+     font-family="Arial, sans-serif"
+     font-size="14"
+     fill="#333333"
+     id="text45"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">선택이론 (선택과 책임감 강조)</text>
+  <text
+     x="815"
+     y="526"
+     font-family="Arial, sans-serif"
+     font-size="16"
+     font-weight="bold"
+     fill="#e65100"
+     id="text46"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.66666667px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">인수 킴 버그</text>
+  <text
+     x="815"
+     y="550"
+     font-family="Arial, sans-serif"
+     font-size="14"
+     fill="#333333"
+     id="text47"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000080">해결중심 접근법 (해결책 집중)</text>
+  <text
+     x="815"
+     y="584"
+     font-family="Arial, sans-serif"
+     font-size="16"
+     font-weight="bold"
+     fill="#e65100"
+     id="text48"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">제임스 클리어</text>
+  <text
+     x="815"
+     y="604"
+     font-family="Arial, sans-serif"
+     font-size="14"
+     fill="#333333"
+     id="text49"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">습관 형성 및 변화 단계 제공</text>
+  <text
+     x="815"
+     y="638"
+     font-family="Arial, sans-serif"
+     font-size="16"
+     font-weight="bold"
+     fill="#e65100"
+     id="text50"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">제임스 프로챠스카</text>
+  <text
+     x="815"
+     y="658"
+     font-family="Arial, sans-serif"
+     font-size="14"
+     fill="#333333"
+     id="text51"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">변화단계 모델 (변화 준비도 개입)</text>
+  <text
+     x="815"
+     y="692"
+     font-family="Arial, sans-serif"
+     font-size="16"
+     font-weight="bold"
+     fill="#e65100"
+     id="text52"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">낸시 클라인</text>
+  <text
+     x="815"
+     y="712"
+     font-family="Arial, sans-serif"
+     font-size="14"
+     fill="#333333"
+     id="text53"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">씽킹 환경 (경청과 사고 촉진)</text>
+  <!-- 4. 긍정심리 및 강점, 감성 기반 코칭 섹션 -->
+  <rect
+     x="1160"
+     y="180"
+     width="350"
+     height="820"
+     rx="10"
+     fill="#E1BEE7"
+     id="rect53" />
+  <rect
+     x="1170"
+     y="200"
+     width="330"
+     height="113.70903"
+     rx="5"
+     fill="#ce93d8"
+     id="rect54"
+     style="stroke-width:1.37664" />
+  <text
+     x="1185"
+     y="237"
+     font-family="Arial, sans-serif"
+     font-size="18"
+     font-weight="bold"
+     fill="#4a148c"
+     id="text54"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">긍정심리 및 강점,감성 기반 코칭</text>
+  <text
+     x="1185"
+     y="255"
+     font-family="Arial, sans-serif"
+     font-size="14"
+     fill="#4a148c"
+     font-style="italic"
+     id="text55"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:297.692;display:inline"
+     transform="translate(0,12)"
+     xml:space="preserve"><tspan
+       x="1185"
+       y="255"
+       id="tspan7">긍정 정서, 강점 활용 및 개인의 웰빙 </tspan><tspan
+       x="1185"
+       y="277.04139"
+       id="tspan8">촉진 중심</tspan></text>
+  <!-- 긍정심리 코치 목록 -->
+  <rect
+     x="1170"
+     y="329.6767"
+     width="330"
+     height="660.3233"
+     rx="5"
+     fill="#f3e5f5"
+     id="rect55"
+     style="stroke-width:0.957662" />
+  <text
+     x="1185"
+     y="364"
+     font-family="Arial, sans-serif"
+     font-size="16"
+     font-weight="bold"
+     fill="#4a148c"
+     id="text56"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">마틴 셀리그만</text>
+  <text
+     x="1185"
+     y="384"
+     font-family="Arial, sans-serif"
+     font-size="14"
+     fill="#333333"
+     id="text57"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">긍정심리학 (행복과 강점 초점)</text>
+  <text
+     x="1185"
+     y="418"
+     font-family="Arial, sans-serif"
+     font-size="16"
+     font-weight="bold"
+     fill="#4a148c"
+     id="text58"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">미하이 칙센트미하이</text>
+  <text
+     x="1185"
+     y="438"
+     font-family="Arial, sans-serif"
+     font-size="14"
+     fill="#333333"
+     id="text59"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">몰입 이론 (최적 경험 설명)</text>
+  <text
+     x="1185"
+     y="472"
+     font-family="Arial, sans-serif"
+     font-size="16"
+     font-weight="bold"
+     fill="#4a148c"
+     id="text60"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">케롤 드웩</text>
+  <text
+     x="1185"
+     y="492"
+     font-family="Arial, sans-serif"
+     font-size="14"
+     fill="#333333"
+     id="text61"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">성장 마인드셋 (능력 발전 강조)</text>
+  <text
+     x="1185"
+     y="526"
+     font-family="Arial, sans-serif"
+     font-size="16"
+     font-weight="bold"
+     fill="#4a148c"
+     id="text62"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">데이비드 쿠퍼라이더</text>
+  <text
+     x="1185"
+     y="546"
+     font-family="Arial, sans-serif"
+     font-size="14"
+     fill="#333333"
+     id="text63"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">긍정적 탐구 (강점 초점)</text>
+  <text
+     x="1185"
+     y="580"
+     font-family="Arial, sans-serif"
+     font-size="16"
+     font-weight="bold"
+     fill="#4a148c"
+     id="text64"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">바버라 프레드릭슨</text>
+  <text
+     x="1185"
+     y="600"
+     font-family="Arial, sans-serif"
+     font-size="14"
+     fill="#333333"
+     id="text65"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">긍정정서 확장-구축 이론 (정서역할 강조)</text>
+  <text
+     x="1185"
+     y="634"
+     font-family="Arial, sans-serif"
+     font-size="16"
+     font-weight="bold"
+     fill="#4a148c"
+     id="text66"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">리처드 보야찌스</text>
+  <text
+     x="1185"
+     y="654"
+     font-family="Arial, sans-serif"
+     font-size="14"
+     fill="#333333"
+     id="text67"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">감성지능 및 의도적 변화 통합</text>
+  <text
+     x="1185"
+     y="688"
+     font-family="Arial, sans-serif"
+     font-size="16"
+     font-weight="bold"
+     fill="#4a148c"
+     id="text68"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">다니엘 골만</text>
+  <text
+     x="1185"
+     y="708"
+     font-family="Arial, sans-serif"
+     font-size="14"
+     fill="#333333"
+     id="text69"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">감성지능 (자기인식 및 관계관리)</text>
+  <!-- 5. 조직/팀 코칭 섹션 -->
+  <rect
+     x="1530"
+     y="180"
+     width="350"
+     height="820"
+     rx="10"
+     fill="#B2DFDB"
+     id="rect69" />
+  <rect
+     x="1540"
+     y="200"
+     width="330"
+     height="113.70903"
+     rx="5"
+     fill="#80cbc4"
+     id="rect70"
+     style="stroke-width:1.37664" />
+  <text
+     x="1555"
+     y="237"
+     font-family="Arial, sans-serif"
+     font-size="18"
+     font-weight="bold"
+     fill="#004d40"
+     id="text70"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">조직/팀 코칭</text>
+  <text
+     x="1555"
+     y="255"
+     font-family="Arial, sans-serif"
+     font-size="14"
+     fill="#004d40"
+     font-style="italic"
+     id="text71"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:303.644;display:inline"
+     transform="translate(0,12)"
+     xml:space="preserve"><tspan
+       x="1555"
+       y="255"
+       id="tspan9">조직 환경, 리더십, 팀 역학 및 시스템적 </tspan><tspan
+       x="1555"
+       y="277.04139"
+       id="tspan10">접근 중심</tspan></text>
+  <!-- 조직/팀 코치 목록 -->
+  <rect
+     x="1540"
+     y="329.6767"
+     width="330"
+     height="660.3233"
+     rx="5"
+     fill="#e0f2f1"
+     id="rect71"
+     style="stroke-width:0.957662" />
+  <text
+     x="1555"
+     y="364"
+     font-family="Arial, sans-serif"
+     font-size="16"
+     font-weight="bold"
+     fill="#004d40"
+     id="text72"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">마셜 골드스미스</text>
+  <text
+     x="1555"
+     y="384"
+     font-family="Arial, sans-serif"
+     font-size="14"
+     fill="#333333"
+     id="text73"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">피드포워드 (미래 행동 초점)</text>
+  <text
+     x="1555"
+     y="418"
+     font-family="Arial, sans-serif"
+     font-size="16"
+     font-weight="bold"
+     fill="#004d40"
+     id="text74"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">메리 베스 오닐</text>
+  <text
+     x="1555"
+     y="438"
+     font-family="Arial, sans-serif"
+     font-size="14"
+     fill="#333333"
+     id="text75"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">시스템적 임원 코칭 (리더영향력 극대화)</text>
+  <text
+     x="1555"
+     y="472"
+     font-family="Arial, sans-serif"
+     font-size="16"
+     font-weight="bold"
+     fill="#004d40"
+     id="text76"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">피터 호킨스</text>
+  <text
+     x="1555"
+     y="492"
+     font-family="Arial, sans-serif"
+     font-size="14"
+     fill="#333333"
+     id="text77"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">시스템적 팀코칭 (팀 역학 다룸)</text>
+  <text
+     x="1555"
+     y="526"
+     font-family="Arial, sans-serif"
+     font-size="16"
+     font-weight="bold"
+     fill="#004d40"
+     id="text78"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">데이비드 클러터벅</text>
+  <text
+     x="1555"
+     y="546"
+     font-family="Arial, sans-serif"
+     font-size="14"
+     fill="#333333"
+     id="text79"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">협력적 팀코칭 (팀 발달 개입)</text>
+  <text
+     x="1555"
+     y="580"
+     font-family="Arial, sans-serif"
+     font-size="16"
+     font-weight="bold"
+     fill="#004d40"
+     id="text80"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">오토 샤머</text>
+  <text
+     x="1555"
+     y="600"
+     font-family="Arial, sans-serif"
+     font-size="14"
+     fill="#333333"
+     id="text81"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">U이론 (미래 가능성 연결)</text>
+  <text
+     x="1555"
+     y="634"
+     font-family="Arial, sans-serif"
+     font-size="16"
+     font-weight="bold"
+     fill="#004d40"
+     id="text82"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">패트릭 렌시오니</text>
+  <text
+     x="1555"
+     y="654"
+     font-family="Arial, sans-serif"
+     font-size="14"
+     fill="#333333"
+     id="text83"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">팀의 5가지 기능부전 (팀 역학 개선)</text>
+  <text
+     x="1555"
+     y="688"
+     font-family="Arial, sans-serif"
+     font-size="16"
+     font-weight="bold"
+     fill="#004d40"
+     id="text84"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">에이미 에드먼슨</text>
+  <text
+     x="1555"
+     y="708"
+     font-family="Arial, sans-serif"
+     font-size="14"
+     fill="#333333"
+     id="text85"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">심리적 안전성 팀코칭 (학습 촉진)</text>
+  <!-- 하단 설명 -->
+  <text
+     x="801.38098"
+     y="79.22123"
+     font-family="Arial, sans-serif"
+     font-size="16px"
+     fill="#666666"
+     text-anchor="middle"
+     id="text86"
+     style="fill:#f9f9f9">*후보3명포함</text>
+  <!-- 페이지 번호 -->
+</svg>
