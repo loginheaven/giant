@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1920"
+   height="1080"
+   version="1.1"
+   id="svg42"
+   sodipodi:docname="17.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs42" />
+  <sodipodi:namedview
+     id="namedview42"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.47395833"
+     inkscape:cx="1185.7582"
+     inkscape:cy="534.85714"
+     inkscape:window-width="1629"
+     inkscape:window-height="961"
+     inkscape:window-x="153"
+     inkscape:window-y="53"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg42" />
+  <!-- 배경 -->
+  <rect
+     width="1920"
+     height="1080"
+     fill="#F5F5F5"
+     id="rect1" />
+  <!-- 제목 영역 배경 -->
+  <rect
+     x="0"
+     y="0"
+     width="1920"
+     height="120"
+     fill="#4285F4"
+     id="rect2" />
+  <!-- 제목 텍스트 -->
+  <text
+     x="60"
+     y="80"
+     font-family="Arial, sans-serif"
+     font-size="48"
+     font-weight="bold"
+     fill="white"
+     id="text2">해결중심 코치의 준비와 실천 원칙</text>
+  <!-- 왼쪽 컬럼: 코치의 내적 준비 -->
+  <rect
+     x="60"
+     y="150"
+     width="880"
+     height="633.70905"
+     rx="10"
+     fill="#e1f5fe"
+     id="rect3"
+     style="stroke-width:1.04528" />
+  <text
+     x="80"
+     y="190"
+     font-family="Arial, sans-serif"
+     font-size="32"
+     font-weight="bold"
+     fill="#0D47A1"
+     id="text3">코치의 내적 준비</text>
+  <!-- 내적 준비 항목들 -->
+  <rect
+     x="80"
+     y="220"
+     width="840"
+     height="100"
+     rx="10"
+     fill="#BBDEFB"
+     id="rect4" />
+  <text
+     x="100"
+     y="255"
+     font-family="Arial, sans-serif"
+     font-size="24"
+     font-weight="bold"
+     fill="#1565C0"
+     id="text4">1. 해결 지향적 마인드셋 개발</text>
+  <text
+     x="130"
+     y="288"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#333333"
+     id="text5">문제보다 해결책에, 결핍보다 자원에, 과거보다 미래에 자연스럽게 초점을 맞추는 사고방식</text>
+  <rect
+     x="80"
+     y="334"
+     width="840"
+     height="100"
+     rx="10"
+     fill="#bbdefb"
+     id="rect5" />
+  <text
+     x="100"
+     y="369"
+     font-family="Arial, sans-serif"
+     font-size="24px"
+     font-weight="bold"
+     fill="#1565c0"
+     id="text6">2. '알지 못함의 자세(Not-Knowing Stance)' 개발</text>
+  <text
+     x="130"
+     y="402"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#333333"
+     id="text7">고객의 경험과 관점에 대해 열린 호기심을 유지하고, 자신의 가정이나 해석을 최소화하는 태도</text>
+  <rect
+     x="80"
+     y="448"
+     width="840"
+     height="100"
+     rx="10"
+     fill="#bbdefb"
+     id="rect7" />
+  <text
+     x="100"
+     y="483"
+     font-family="Arial, sans-serif"
+     font-size="24px"
+     font-weight="bold"
+     fill="#1565c0"
+     id="text8">3. 긍정적 기대와 희망 함양</text>
+  <text
+     x="130"
+     y="516"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#333333"
+     id="text9">변화의 가능성과, 고객의 자원과 능력에 대한 진정한 믿음을 가짐</text>
+  <rect
+     x="80"
+     y="562"
+     width="840"
+     height="100"
+     rx="10"
+     fill="#bbdefb"
+     id="rect9" />
+  <text
+     x="100"
+     y="597"
+     font-family="Arial, sans-serif"
+     font-size="24px"
+     font-weight="bold"
+     fill="#1565c0"
+     id="text10">4. 언어 감수성 개발 (언어 세탁)</text>
+  <text
+     x="130"
+     y="630"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#333333"
+     id="text11">문제 지향적 언어에서 해결 지향적 언어로 전환하는 능력 개발</text>
+  <rect
+     x="80"
+     y="676"
+     width="840"
+     height="80"
+     rx="10"
+     fill="#bbdefb"
+     id="rect11" />
+  <text
+     x="100"
+     y="711"
+     font-family="Arial, sans-serif"
+     font-size="24px"
+     font-weight="bold"
+     fill="#1565c0"
+     id="text12">5. 민감한 관찰 능력 배양</text>
+  <text
+     x="130"
+     y="744"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#333333"
+     id="text13">고객의 강점, 자원, 작은 변화와 예외 상황을 알아차리는 능력</text>
+  <!-- 언어 세탁 예시 박스 -->
+  <rect
+     x="65.080826"
+     y="798"
+     width="871.33026"
+     height="208.18478"
+     rx="10.372979"
+     fill="#e3f2fd"
+     id="rect13"
+     style="stroke-width:1.19986" />
+  <text
+     x="100"
+     y="838"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     font-weight="bold"
+     fill="#0d47a1"
+     id="text14">표현 전환 예시:</text>
+  <text
+     x="120"
+     y="884"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#333333"
+     font-weight="bold"
+     id="text15">•</text>
+  <text
+     x="140"
+     y="884"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#333333"
+     id="text16">&quot;왜 이 문제가 계속되는 걸까요?&quot; → &quot;이 상황이 조금이라도 나아졌던 때는 언제였나요?&quot;</text>
+  <text
+     x="120"
+     y="914"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#333333"
+     font-weight="bold"
+     id="text17">•</text>
+  <text
+     x="140"
+     y="914"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#333333"
+     id="text18">&quot;이 장애물을 어떻게 극복할 수 있을까요?&quot; → &quot;원하는 결과를 향해 취할 수 있는 첫 번째</text>
+  <text
+     x="155"
+     y="944"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#333333"
+     id="text19">작은 단계는 무엇일까요?&quot;</text>
+  <text
+     x="120"
+     y="974"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#333333"
+     font-weight="bold"
+     id="text20">•</text>
+  <text
+     x="140"
+     y="974"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#333333"
+     id="text21">&quot;저는 소심해요&quot; → &quot;신중하게 사고하는 강점이 있네요.&quot;</text>
+  <!-- 오른쪽 컬럼: 코칭 현장에서의 핵심 적용 원칙 -->
+  <rect
+     x="980"
+     y="150"
+     width="880"
+     height="530.56354"
+     rx="10"
+     fill="#dcedc8"
+     id="rect21"
+     style="stroke-width:1.08583" />
+  <text
+     x="1000"
+     y="190"
+     font-family="Arial, sans-serif"
+     font-size="32"
+     font-weight="bold"
+     fill="#33691E"
+     id="text22">코칭 현장에서의 핵심 적용 원칙</text>
+  <!-- 적용 원칙 항목들 -->
+  <rect
+     x="1000"
+     y="220"
+     width="840"
+     height="80"
+     rx="10"
+     fill="#C5E1A5"
+     id="rect22" />
+  <text
+     x="1020"
+     y="255"
+     font-family="Arial, sans-serif"
+     font-size="24"
+     font-weight="bold"
+     fill="#33691E"
+     id="text23">1. &quot;고장나지 않았다면 고치지 마라&quot;</text>
+  <text
+     x="1058"
+     y="285"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#333333"
+     id="text24">변화를 위해 꼭 필요하지 않은 부분을 건드리지 않음</text>
+  <rect
+     x="1000"
+     y="310"
+     width="840"
+     height="80"
+     rx="10"
+     fill="#C5E1A5"
+     id="rect24" />
+  <text
+     x="1020"
+     y="345"
+     font-family="Arial, sans-serif"
+     font-size="24"
+     font-weight="bold"
+     fill="#33691E"
+     id="text25">2. &quot;효과가 있는 것이 있다면 더 많이 하라&quot;</text>
+  <text
+     x="1058"
+     y="375"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#333333"
+     id="text26">이미 효과가 있는 전략과 행동을 식별하고 증폭</text>
+  <rect
+     x="1000"
+     y="400"
+     width="840"
+     height="80"
+     rx="10"
+     fill="#C5E1A5"
+     id="rect26" />
+  <text
+     x="1020"
+     y="435"
+     font-family="Arial, sans-serif"
+     font-size="24"
+     font-weight="bold"
+     fill="#33691E"
+     id="text27">3. &quot;효과가 없다면 다르게 하라&quot;</text>
+  <text
+     x="1058"
+     y="465"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#333333"
+     id="text28">같은 접근법을 반복해도 결과가 없다면 접근법을 변경</text>
+  <rect
+     x="1000"
+     y="490"
+     width="840"
+     height="80"
+     rx="10"
+     fill="#C5E1A5"
+     id="rect28" />
+  <text
+     x="1020"
+     y="525"
+     font-family="Arial, sans-serif"
+     font-size="24"
+     font-weight="bold"
+     fill="#33691E"
+     id="text29">4. &quot;작은 변화가 큰 차이를 만든다&quot;</text>
+  <text
+     x="1058"
+     y="555"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#333333"
+     id="text30">대규모 변화보다 작고 구체적인 변화에 초점</text>
+  <rect
+     x="1000"
+     y="580"
+     width="840"
+     height="80"
+     rx="10"
+     fill="#C5E1A5"
+     id="rect30" />
+  <text
+     x="1020"
+     y="615"
+     font-family="Arial, sans-serif"
+     font-size="24"
+     font-weight="bold"
+     fill="#33691E"
+     id="text31">5. &quot;해결은 문제와 다를 수 있다&quot;</text>
+  <text
+     x="1058"
+     y="645"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#333333"
+     id="text32">해결책이 반드시 문제와 직접적으로 관련될 필요가 없음</text>
+  <!-- 인수 킴 명언 -->
+  <rect
+     x="980"
+     y="694"
+     width="880"
+     height="80"
+     rx="10"
+     fill="#e8f5e9"
+     id="rect32" />
+  <text
+     x="1420"
+     y="744"
+     font-family="Arial, sans-serif"
+     font-size="24px"
+     font-style="italic"
+     fill="#2e7d32"
+     text-anchor="middle"
+     id="text33">&quot;복잡하게 생각하되, 단순하게 실행하라&quot;</text>
+  <text
+     x="1734.8777"
+     y="748.63739"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     fill="#2e7d32"
+     text-anchor="end"
+     id="text34">- 인수 킴</text>
+  <!-- 코치 자가 진단 섹션 -->
+  <rect
+     x="980"
+     y="790"
+     width="880"
+     height="220"
+     rx="10"
+     fill="#FFF3E0"
+     id="rect34" />
+  <text
+     x="1000"
+     y="830"
+     font-family="Arial, sans-serif"
+     font-size="28"
+     font-weight="bold"
+     fill="#E65100"
+     id="text35">코치 자가 진단</text>
+  <text
+     x="1000"
+     y="865"
+     font-family="Arial, sans-serif"
+     font-size="18"
+     fill="#333333"
+     id="text36">다음 항목에 1(거의 그렇지 않다)부터 5(매우 그렇다)까지 점수를 매겨보세요:</text>
+  <text
+     x="1020"
+     y="895"
+     font-family="Arial, sans-serif"
+     font-size="18"
+     fill="#333333"
+     id="text37">• 나는 고객의 문제보다 해결책과 가능성에 자연스럽게 초점을 맞추는 경향이 있다.</text>
+  <text
+     x="1020"
+     y="925"
+     font-family="Arial, sans-serif"
+     font-size="18"
+     fill="#333333"
+     id="text38">• 나는 고객의 작은 진전과 성공 경험을 알아차리고 강화하는 것을 즐긴다.</text>
+  <text
+     x="1020"
+     y="955"
+     font-family="Arial, sans-serif"
+     font-size="18"
+     fill="#333333"
+     id="text39">• 나는 고객을 자신의 삶에 대한 전문가로 존중하며, '알지 못함의 자세'를 유지한다.</text>
+  <text
+     x="1020"
+     y="985"
+     font-family="Arial, sans-serif"
+     font-size="18"
+     fill="#333333"
+     id="text40">• 나는 복잡한 상황에서도 작은 변화의 가치와 파급 효과를 믿는다.</text>
+  <!-- 온라인 진단 링크 추가 -->
+  <a
+     xlink:href="https://script.google.com/macros/s/AKfycbz2sy2SFrJDBRg98lMfoiXpp9vKcvLAgHbgtcdAUmh6XscugLGN4pjW3-dYYY6d7Mqt/exec"
+     target="_blank"
+     id="a1"
+     transform="matrix(0.90109212,0,0,1.0019919,198.95423,-25.573717)">
+    <rect
+       x="1650"
+       y="830"
+       width="180"
+       height="50"
+       rx="25"
+       fill="#ff9800"
+       stroke="#e65100"
+       stroke-width="2"
+       id="online-test-button" />
+    <text
+       x="1740"
+       y="862"
+       font-family="Arial, sans-serif"
+       font-size="20px"
+       font-weight="bold"
+       fill="#ffffff"
+       text-anchor="middle"
+       id="online-test-text">온라인 진단</text>
+  </a>
+  <!-- 페이지 번호 -->
+  <text
+     x="1860"
+     y="1060"
+     font-family="Arial, sans-serif"
+     font-size="28px"
+     fill="#666666"
+     text-anchor="end"
+     id="text42">16</text>
+</svg>
