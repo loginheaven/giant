@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1920"
+   height="1080"
+   version="1.1"
+   id="svg39"
+   sodipodi:docname="20.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <style
+     id="style1">text,#a6-9 {   }
+</style>
+  <defs
+     id="defs27" />
+  <sodipodi:namedview
+     id="namedview27"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.74722222"
+     inkscape:cx="455.01859"
+     inkscape:cy="653.75465"
+     inkscape:window-width="1739"
+     inkscape:window-height="949"
+     inkscape:window-x="86"
+     inkscape:window-y="28"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg39" />
+  <!-- 배경 -->
+  <rect
+     width="1920"
+     height="1080"
+     id="rect1" />
+  <!-- 제목 영역 배경 -->
+  <rect
+     x="0"
+     y="0"
+     width="1920"
+     height="120"
+     fill="#4285F4"
+     id="rect2" />
+  <!-- 제목 텍스트 -->
+  <text
+     x="60"
+     y="80"
+     font-family="Arial, sans-serif"
+     font-size="48px"
+     font-weight="bold"
+     fill="#ffffff"
+     id="text2">주요 저서와 추가 학습을 위한 자원</text>
+  <!-- 소개 영역 -->
+  <rect
+     x="60"
+     y="150"
+     width="1800"
+     height="100"
+     rx="10"
+     fill="#E1F5FE"
+     id="rect3" />
+  <text
+     x="116"
+     y="214"
+     font-family="Arial, sans-serif"
+     font-size="32px"
+     fill="#333333"
+     id="text4"
+     style="line-height:0px;"><tspan
+       x="116"
+       y="214"
+       id="tspan1">인수 킴의 저서와 해결중심 접근법을 더 깊이 이해하기 위한 핵심 자료와 학습 리소스입니다.</tspan></text>
+  <!-- 왼쪽 컬럼: 핵심 저서 -->
+  <rect
+     x="78.710236"
+     y="271.01437"
+     width="880"
+     height="726.54272"
+     rx="10"
+     fill="#fff3e0"
+     id="rect17"
+     style="stroke-width:0.977741" />
+  <text
+     x="98.710236"
+     y="311.01437"
+     font-family="Arial, sans-serif"
+     font-size="26px"
+     font-weight="bold"
+     fill="#e65100"
+     id="text18">핵심 저서 5선</text>
+  <!-- 저서 1 -->
+  <rect
+     x="98.710236"
+     y="331.01437"
+     width="840"
+     height="120"
+     rx="5"
+     fill="#ffe0b2"
+     id="rect18" />
+  <rect
+     x="108.71024"
+     y="351.01437"
+     width="60"
+     height="60"
+     rx="10"
+     fill="#50e3c2"
+     opacity="0.7"
+     id="rect19" />
+  <text
+     x="138.71024"
+     y="391.01437"
+     font-family="Arial, sans-serif"
+     font-size="24px"
+     font-weight="bold"
+     fill="#ffffff"
+     text-anchor="middle"
+     id="text19">1</text>
+  <text
+     x="178.71024"
+     y="361.01437"
+     font-family="Arial, sans-serif"
+     font-size="22px"
+     font-weight="bold"
+     fill="#2c3e50"
+     id="text20">「The Miracle Method, 1987」</text>
+  <text
+     x="178.71024"
+     y="391.01437"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#34495e"
+     id="text21"><tspan
+       x="178.71024"
+       y="391.01437"
+       id="tspan2">스티브 드 샤저와 공동 저술한 해결중심 단기치료의 초기 저작</tspan><tspan
+       x="178.71024"
+       y="421.01437"
+       id="tspan3">기적 질문, 예외 탐색, 척도 질문 등 핵심 기법 소개</tspan></text>
+  <!-- 저서 2 -->
+  <a
+     id="a5">
+    <rect
+       x="98.710236"
+       y="461.01437"
+       width="840"
+       height="120"
+       rx="5"
+       fill="#ffe0b2"
+       id="rect21" />
+  </a>
+  <rect
+     x="108.71024"
+     y="481.01437"
+     width="60"
+     height="60"
+     rx="10"
+     fill="#50e3c2"
+     opacity="0.7"
+     id="rect22" />
+  <text
+     x="138.71024"
+     y="521.01437"
+     font-family="Arial, sans-serif"
+     font-size="24px"
+     font-weight="bold"
+     fill="#ffffff"
+     text-anchor="middle"
+     id="text22">2</text>
+  <a
+     id="a6"
+     xlink:href="https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=54224732&amp;TabType=1">
+    <text
+       x="178.71024"
+       y="491.01437"
+       id="text23"
+       fill="#2c3e50"
+       font-family="Arial, sans-serif"
+       font-size="22px"
+       font-weight="bold">「Interviewing for Solutions, 1997」「해결을 위한 면접,2015」</text>
+  </a>
+  <text
+     x="178.71024"
+     y="521.01434"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#34495e"
+     id="text24"
+     style="line-height:26.0787px;letter-spacing:0.1px;word-spacing:0.07px;direction:ltr;white-space:pre;inline-size:746.933;display:inline"
+     xml:space="preserve"><tspan
+       x="178.71024"
+       y="521.01434"
+       id="tspan22"><tspan
+         dx="0 0 -0.06999962 0.069998167 -0.069997713 0.069998167 0 -0.070001528 0.070005797 0 -0.069993898 0.069998167 -0.070009157 0.069998167 0 0 0 -0.069993898 0.069998167 0 0 0 -0.069993898 0.070013426 0 0 0 -0.069993898 0.069982909"
+         id="tspan4">피터 드 종과 함께 쓴 해결중심 접근법의 포괄적인 교과서</tspan><tspan
+         dx="0 -0.069993898"
+         id="tspan20">. </tspan><tspan
+         dx="0.069982909 0 0 -0.070024416 0.070043944 0 0 -0.069963381 0.070013426 0 -0.069963381 0.069982909 0 -0.069993898 0.069982909 0 0 -0.069963381"
+         id="tspan21">다양한 맥락의 실제 대화 사례와 </tspan></tspan><tspan
+       x="178.71024"
+       y="547.52598"
+       id="tspan24"><tspan
+         dx="0 0 -0.06999962 0.069998167"
+         id="tspan23">분석 포함</tspan></tspan></text>
+  <!-- 저서 3 -->
+  <rect
+     x="98.710236"
+     y="591.0144"
+     width="840"
+     height="120"
+     rx="5"
+     fill="#ffe0b2"
+     id="rect24" />
+  <rect
+     x="108.71024"
+     y="611.0144"
+     width="60"
+     height="60"
+     rx="10"
+     fill="#50e3c2"
+     opacity="0.7"
+     id="rect25" />
+  <text
+     x="138.71024"
+     y="651.0144"
+     font-family="Arial, sans-serif"
+     font-size="24px"
+     font-weight="bold"
+     fill="#ffffff"
+     text-anchor="middle"
+     id="text25">3</text>
+  <text
+     x="178.71024"
+     y="621.0144"
+     font-family="Arial, sans-serif"
+     font-size="22px"
+     font-weight="bold"
+     fill="#2c3e50"
+     id="text26">「Tales of Solutions, 2001」(해결책의 이야기들)</text>
+  <text
+     x="178.71024"
+     y="651.0144"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#34495e"
+     id="text27"><tspan
+       x="178.71024"
+       y="651.0144"
+       id="tspan6">이본 돌란과 함께 쓴 성공적인 변화 사례 모음</tspan><tspan
+       x="178.71024"
+       y="681.0144"
+       id="tspan7">은유와 스토리텔링의 치유적 힘을 강조</tspan></text>
+  <!-- 저서 4 -->
+  <rect
+     x="98.710236"
+     y="721.0144"
+     width="840"
+     height="120"
+     rx="5"
+     fill="#ffe0b2"
+     id="rect27" />
+  <rect
+     x="108.71024"
+     y="741.0144"
+     width="60"
+     height="60"
+     rx="10"
+     fill="#50e3c2"
+     opacity="0.7"
+     id="rect28" />
+  <text
+     x="138.71024"
+     y="781.0144"
+     font-family="Arial, sans-serif"
+     font-size="24px"
+     font-weight="bold"
+     fill="#ffffff"
+     text-anchor="middle"
+     id="text28">4</text>
+  <text
+     x="178.71024"
+     y="751.0144"
+     font-family="Arial, sans-serif"
+     font-size="22px"
+     font-weight="bold"
+     fill="#2c3e50"
+     id="text29">「Brief Coaching for Lasting Solutions, 2005」『해결중심 단기코칭, 2011』</text>
+  <text
+     x="178.71024"
+     y="781.0144"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#34495e"
+     id="text30"><tspan
+       x="178.71024"
+       y="781.0144"
+       id="tspan8">피터 사보와 함께 해결중심 접근법을 코칭 맥락에 특화하여 적용</tspan><tspan
+       x="178.71024"
+       y="811.0144"
+       id="tspan9">단기 코칭 프로세스와 코칭 관계 구축 방법 제시</tspan></text>
+  <!-- 저서 5 -->
+  <rect
+     x="98.710236"
+     y="851.0144"
+     width="840"
+     height="120"
+     rx="5"
+     fill="#ffe0b2"
+     id="rect30" />
+  <rect
+     x="108.71024"
+     y="871.0144"
+     width="60"
+     height="60"
+     rx="10"
+     fill="#50e3c2"
+     opacity="0.7"
+     id="rect31" />
+  <text
+     x="138.71024"
+     y="911.0144"
+     font-family="Arial, sans-serif"
+     font-size="24px"
+     font-weight="bold"
+     fill="#ffffff"
+     text-anchor="middle"
+     id="text31">5</text>
+  <text
+     x="178.71024"
+     y="881.0144"
+     font-family="Arial, sans-serif"
+     font-size="22px"
+     font-weight="bold"
+     fill="#2c3e50"
+     id="text32">「More Than Miracles, 2007」(기적 그 이상)</text>
+  <text
+     x="178.71024"
+     y="911.0144"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#34495e"
+     id="text33"><tspan
+       x="178.71024"
+       y="911.0144"
+       id="tspan10">인수 킴의 마지막 저서로 해결중심 접근법의 이론적 정교화와 발전</tspan><tspan
+       x="178.71024"
+       y="941.0144"
+       id="tspan11">언어 사용과 질문 방식의 미세한 뉘앙스와 복잡성 탐구</tspan></text>
+  <!-- 오른쪽 컬럼: 추천 자료 -->
+  <rect
+     x="952"
+     y="270"
+     width="880"
+     height="726.54272"
+     rx="10"
+     fill="#f1f8e9"
+     id="rect4"
+     style="stroke-width:0.977741" />
+  <text
+     x="972"
+     y="310"
+     font-family="Arial, sans-serif"
+     font-size="26px"
+     font-weight="bold"
+     fill="#33691e"
+     id="text5">추천 자료</text>
+  <!-- 추천 서적 섹션 -->
+  <rect
+     x="973.33832"
+     y="332.67657"
+     width="840"
+     height="220"
+     rx="5"
+     fill="#dcedc8"
+     id="rect5" />
+  <text
+     x="992"
+     y="368"
+     font-family="Arial, sans-serif"
+     font-size="22px"
+     font-weight="bold"
+     fill="#33691e"
+     id="text6">그 외 추천 서적</text>
+  <text
+     x="992"
+     y="402"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#333333"
+     id="text7"><tspan
+       x="992"
+       y="402"
+       id="tspan12">•「1001가지 해결중심 질문들」(2002), Fredrike Bannink 저</tspan><tspan
+       x="992"
+       y="432"
+       id="tspan13">•「해결중심 코칭」(한국판 2013), Kirsten Dierolf 외 저</tspan><tspan
+       x="992"
+       y="462"
+       id="tspan14">•「The Solutions Focus」(2007), Paul Z. Jackson &amp; Mark McKergow</tspan><tspan
+       x="992"
+       y="492"
+       id="tspan15">•「Positively Speaking」(2012), Janine Waldman &amp; Paul Z. Jackson</tspan><tspan
+       x="992"
+       y="522"
+       id="tspan16">- 해결중심 대화 기술과 언어 패턴에 초점을 맞춘 실용서</tspan></text>
+  <!-- 웹사이트 및 온라인 커뮤니티 섹션 -->
+  <rect
+     x="974.67657"
+     y="562"
+     width="840"
+     height="277.47211"
+     rx="5"
+     fill="#dcedc8"
+     id="rect7"
+     style="stroke-width:1.19454" />
+  <text
+     x="992"
+     y="600"
+     font-family="Arial, sans-serif"
+     font-size="22px"
+     font-weight="bold"
+     fill="#33691e"
+     id="text8">웹사이트 및 온라인 커뮤니티</text>
+  <!-- 한국솔루션센터 링크 -->
+  <text
+     x="992"
+     y="632"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#333333"
+     id="text9a">• 한국솔루션센터</text>
+  <a
+     xlink:href="http://solution-center.org/"
+     target="_blank"
+     id="a1"
+     transform="translate(0,12)">
+    <text
+       x="1010"
+       y="650"
+       font-family="Arial, sans-serif"
+       font-size="18px"
+       fill="#0066cc"
+       text-decoration="underline"
+       id="text9b"
+       style="text-decoration:underline;text-decoration-line:underline">웹사이트: http://solution-center.org/</text>
+  </a>
+  <text
+     x="1010"
+     y="692"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#333333"
+     id="text9c">미국 BFTC 한국지부, 해결중심 단기치료 사례와 매뉴얼 제공</text>
+  <text
+     x="992"
+     y="722"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#333333"
+     id="text9d">• 한국해결중심치료학회</text>
+  <a
+     xlink:href="http://solutionfocus.gamgakdesign.com/main.php"
+     target="_blank"
+     id="a2"
+     transform="translate(0,12)">
+    <text
+       x="1010"
+       y="740"
+       font-family="Arial, sans-serif"
+       font-size="18px"
+       fill="#0066cc"
+       text-decoration="underline"
+       id="text9e"
+       style="text-decoration:underline;text-decoration-line:underline">웹사이트: http://solutionfocus.gamgakdesign.com/main.php</text>
+  </a>
+  <text
+     x="992"
+     y="782"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#333333"
+     id="text9f">• SFBTA (Solution-Focused Brief Therapy Association)</text>
+  <a
+     xlink:href="http://www.sfbta.org"
+     target="_blank"
+     id="a3"
+     transform="translate(0,12)">
+    <text
+       x="1010"
+       y="800"
+       font-family="Arial, sans-serif"
+       font-size="18px"
+       fill="#0066cc"
+       text-decoration="underline"
+       id="text9g"
+       style="text-decoration:underline;text-decoration-line:underline">웹사이트: www.sfbta.org</text>
+  </a>
+  <!-- 도움 자료 섹션 -->
+  <rect
+     x="972"
+     y="851.41266"
+     width="840"
+     height="118.58736"
+     rx="5"
+     fill="#dcedc8"
+     id="rect11"
+     style="stroke-width:0.920354" />
+  <text
+     x="992"
+     y="890"
+     font-family="Arial, sans-serif"
+     font-size="22px"
+     font-weight="bold"
+     fill="#33691e"
+     id="text12">도움 자료</text>
+  <text
+     x="992"
+     y="920"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     fill="#333333"
+     id="text13a">• 강점관점해결중심사례관리매뉴얼 &gt; 자료실 | 솔루션센터</text>
+  <a
+     xlink:href="http://solution-center.org/bbs/board.php?bo_table=0403&amp;wr_id=16&amp;sst=wr_sort&amp;sod=asc&amp;page=1"
+     target="_blank"
+     id="a4"
+     transform="translate(0,50)">
+    <text
+       x="1010"
+       y="900"
+       font-family="Arial, sans-serif"
+       font-size="18px"
+       fill="#0066cc"
+       text-decoration="underline"
+       id="text13b"
+       style="text-decoration:underline;text-decoration-line:underline">바로가기: 강점관점해결중심사례관리매뉴얼 다운로드</text>
+  </a>
+  <!-- 하단 인용구 -->
+  <rect
+     x="80"
+     y="1000"
+     width="1760"
+     height="3"
+     fill="#4A90E2"
+     opacity="0.5"
+     id="rect36" />
+  <text
+     x="960"
+     y="1030"
+     font-family="Arial, sans-serif"
+     font-size="22"
+     text-anchor="middle"
+     font-style="italic"
+     fill="#2c3e50"
+     id="text37">&quot;간결하게 하라. 단순할수록 더 많은 것을 할 수 있다.&quot;</text>
+  <text
+     x="960"
+     y="1060"
+     font-family="Arial, sans-serif"
+     font-size="20"
+     text-anchor="middle"
+     fill="#4A90E2"
+     id="text38">- Insoo Kim Berg -</text>
+  <!-- 페이지 번호 -->
+</svg>
